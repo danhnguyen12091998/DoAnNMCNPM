@@ -1,0 +1,644 @@
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.csprojResolveAssemblyReference.cache
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\QuanLiBanVang.exe.config
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.DanhSachDichVu.resources
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.DanhSachPhieuBanHang.resources
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.DanhSachPhieuNhapHang.resources
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.DanhSachPhieuThuNo.resources
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.BaoCaoCongNo_Form.resources
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.BaoCaoTonKho_Form.resources
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.DanhSachLoaiSanPham_Form.resources
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.DanhSachNhaCungCap.resources
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.DanhSachNhanVien_Form.resources
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.DanhSachPhieuChi_Form.resources
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.DanhSachPhieuMua_Form.resources
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.DanhSachSanPham_Form.resources
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.Login_Form.resources
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.MainForm.resources
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.NhaCungCap.resources
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.NhapLoaiSanPham_Form.resources
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.NhapNhanVien_Form.resources
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.NhapPhieuChi_Form.resources
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.NhapPhieuMua_Form.resources
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.NhapSanPham_Form.resources
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.PhieuBanHang.resources
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.PhieuNhapHang.resources
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.PhieuThuTienNo.resources
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.SuaLoaiSanPham_Form.resources
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.SuaNhanVien_Form.resources
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.SuaPhieuChi_Form.resources
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.SuaPhieuMua_Form.resources
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.SuaSanPham_Form.resources
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.NhapPhieuGiaCong_Form.resources
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.UpdateDetaiItem.resources
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.UpdateImportDetailltem.resources
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Properties.Resources.resources
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.TongQuan.resources
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.BaoCaoCongNo.resources
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.BaoCaoTonKho.resources
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.SuaPhieuGiaCong_Form.resources
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.csproj.GenerateResource.Cache
+C:\Users\TruongNgoc\Desktop\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.exe.licenses
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DBQLCuaHangVangBacDaQuy.mdf
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DBQLCuaHangVangBacDaQuy_log.ldf
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\QuanLiBanVang.exe.config
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\QuanLiBanVang.exe
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\QuanLiBanVang.pdb
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\BUL.dll
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DTO.dll
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\EntityFramework.dll
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\EntityFramework.SqlServer.dll
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DAL.dll
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\BUL.pdb
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DTO.pdb
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\EntityFramework.xml
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\EntityFramework.SqlServer.xml
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DAL.pdb
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.csprojResolveAssemblyReference.cache
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.DanhSachKhachQuen_Form.resources
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.DanhSachNhaCungCap_Form.resources
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.DanhSachPGC.resources
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.DanhSachPhieuBanHang_Form.resources
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.BaoCaoCongNo_Form.resources
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.BaoCaoTonKho_Form.resources
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.DanhSachDichVu.resources
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.DanhSachKH.resources
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.DanhSachLoaiSanPham_Form.resources
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.DanhSachNhanVien_Form.resources
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.DanhSachPDV.resources
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.DanhSachPhieuChi_Form.resources
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.DanhSachPhieuMua_Form.resources
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.DanhSachPhieuNhapHang_Form.resources
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.DanhSachPhieuThuNo_Form.resources
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.DanhSachSanPham_Form.resources
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.DanhSachTho.resources
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.Login_Form.resources
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.MainForm.resources
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.NhaCungCap_Form.resources
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.NhapDichVu.resources
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.NhapKhachHang.resources
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.NhapLoaiSanPham_Form.resources
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.NhapNhanVien_Form.resources
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.NhapPhieuChi_Form.resources
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.NhapPhieuDichVu.resources
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.NhapPhieuMua_Form.resources
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.NhapSanPham_Form.resources
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.NhapTho.resources
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.PhieuBanHang.resources
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.PhieuNhapHang_Form.resources
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.PhieuThuTienNo_Form.resources
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.SoTienTraTruoc_Form.resources
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.SuaDichVu.resources
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.SuaKhachHang.resources
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.SuaLoaiSanPham_Form.resources
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.SuaNhanVien_Form.resources
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.SuaPhieuChi_Form.resources
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.SuaPhieuDichVu.resources
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.SuaPhieuMua_Form.resources
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.SuaSanPham_Form.resources
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.SuaTho.resources
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.NhapPhieuGiaCong_Form.resources
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.ThayDoiQuyDinh_Form.resources
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.TongQuan.resources
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.UpdateDetaiItem.resources
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.UpdateImportDetailltem.resources
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Properties.Resources.resources
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.BaoCaoCongNo.resources
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.BaoCaoTonKho.resources
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.SuaPhieuGiaCong_Form.resources
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.csproj.GenerateResource.Cache
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.exe.licenses
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.exe
+D:\Study Documents\Design Software\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.pdb
+D:\CE\NMCNPM\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.csprojAssemblyReference.cache
+D:\CE\NMCNPM\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.DanhSachKhachQuen_Form.resources
+D:\CE\NMCNPM\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.DanhSachNhaCungCap_Form.resources
+D:\CE\NMCNPM\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.DanhSachPGC.resources
+D:\CE\NMCNPM\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.DanhSachPhieuBanHang_Form.resources
+D:\CE\NMCNPM\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.BaoCaoCongNo_Form.resources
+D:\CE\NMCNPM\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.BaoCaoTonKho_Form.resources
+D:\CE\NMCNPM\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.DanhSachDichVu.resources
+D:\CE\NMCNPM\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.DanhSachKH.resources
+D:\CE\NMCNPM\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.DanhSachLoaiSanPham_Form.resources
+D:\CE\NMCNPM\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.DanhSachNhanVien_Form.resources
+D:\CE\NMCNPM\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.DanhSachPDV.resources
+D:\CE\NMCNPM\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.DanhSachPhieuChi_Form.resources
+D:\CE\NMCNPM\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.DanhSachPhieuMua_Form.resources
+D:\CE\NMCNPM\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.DanhSachPhieuNhapHang_Form.resources
+D:\CE\NMCNPM\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.DanhSachPhieuThuNo_Form.resources
+D:\CE\NMCNPM\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.DanhSachSanPham_Form.resources
+D:\CE\NMCNPM\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.DanhSachTho.resources
+D:\CE\NMCNPM\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.Login_Form.resources
+D:\CE\NMCNPM\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.MainForm.resources
+D:\CE\NMCNPM\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.NhaCungCap_Form.resources
+D:\CE\NMCNPM\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.NhapDichVu.resources
+D:\CE\NMCNPM\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.NhapKhachHang.resources
+D:\CE\NMCNPM\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.NhapLoaiSanPham_Form.resources
+D:\CE\NMCNPM\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.NhapNhanVien_Form.resources
+D:\CE\NMCNPM\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.NhapPhieuChi_Form.resources
+D:\CE\NMCNPM\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.NhapPhieuDichVu.resources
+D:\CE\NMCNPM\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.NhapPhieuMua_Form.resources
+D:\CE\NMCNPM\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.NhapSanPham_Form.resources
+D:\CE\NMCNPM\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.NhapTho.resources
+D:\CE\NMCNPM\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.PhieuBanHang.resources
+D:\CE\NMCNPM\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.PhieuNhapHang_Form.resources
+D:\CE\NMCNPM\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.PhieuThuTienNo_Form.resources
+D:\CE\NMCNPM\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.SoTienTraTruoc_Form.resources
+D:\CE\NMCNPM\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.SuaDichVu.resources
+D:\CE\NMCNPM\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.SuaKhachHang.resources
+D:\CE\NMCNPM\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.SuaLoaiSanPham_Form.resources
+D:\CE\NMCNPM\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.SuaNhanVien_Form.resources
+D:\CE\NMCNPM\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.SuaPhieuChi_Form.resources
+D:\CE\NMCNPM\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.SuaPhieuDichVu.resources
+D:\CE\NMCNPM\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.SuaPhieuMua_Form.resources
+D:\CE\NMCNPM\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.SuaSanPham_Form.resources
+D:\CE\NMCNPM\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.SuaTho.resources
+D:\CE\NMCNPM\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.NhapPhieuGiaCong_Form.resources
+D:\CE\NMCNPM\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.ThayDoiQuyDinh_Form.resources
+D:\CE\NMCNPM\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.TongQuan.resources
+D:\CE\NMCNPM\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.UpdateDetaiItem.resources
+D:\CE\NMCNPM\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.UpdateImportDetailltem.resources
+D:\CE\NMCNPM\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Properties.Resources.resources
+D:\CE\NMCNPM\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.BaoCaoCongNo.resources
+D:\CE\NMCNPM\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.BaoCaoTonKho.resources
+D:\CE\NMCNPM\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.SuaPhieuGiaCong_Form.resources
+D:\CE\NMCNPM\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.csproj.GenerateResource.cache
+D:\CE\NMCNPM\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.exe.licenses
+D:\CE\NMCNPM\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.exe
+D:\CE\NMCNPM\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.pdb
+D:\CE\NMCNPM\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.csproj.CoreCompileInputs.cache
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.csprojAssemblyReference.cache
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.DanhSachKhachQuen_Form.resources
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.DanhSachNhaCungCap_Form.resources
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.DanhSachPGC.resources
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.DanhSachPhieuBanHang_Form.resources
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.BaoCaoCongNo_Form.resources
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.BaoCaoTonKho_Form.resources
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.DanhSachDichVu.resources
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.DanhSachKH.resources
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.DanhSachLoaiSanPham_Form.resources
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.DanhSachNhanVien_Form.resources
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.DanhSachPDV.resources
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.DanhSachPhieuChi_Form.resources
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.DanhSachPhieuMua_Form.resources
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.DanhSachPhieuNhapHang_Form.resources
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.DanhSachPhieuThuNo_Form.resources
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.DanhSachSanPham_Form.resources
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.DanhSachTho.resources
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.Login_Form.resources
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.MainForm.resources
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.NhaCungCap_Form.resources
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.NhapDichVu.resources
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.NhapKhachHang.resources
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.NhapLoaiSanPham_Form.resources
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.NhapNhanVien_Form.resources
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.NhapPhieuChi_Form.resources
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.NhapPhieuDichVu.resources
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.NhapPhieuMua_Form.resources
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.NhapSanPham_Form.resources
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.NhapTho.resources
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.PhieuBanHang.resources
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.PhieuNhapHang_Form.resources
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.PhieuThuTienNo_Form.resources
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.SoTienTraTruoc_Form.resources
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.SuaDichVu.resources
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.SuaKhachHang.resources
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.SuaLoaiSanPham_Form.resources
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.SuaNhanVien_Form.resources
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.SuaPhieuChi_Form.resources
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.SuaPhieuDichVu.resources
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.SuaPhieuMua_Form.resources
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.SuaSanPham_Form.resources
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.SuaTho.resources
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.NhapPhieuGiaCong_Form.resources
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.ThayDoiQuyDinh_Form.resources
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.TongQuan.resources
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.UpdateDetaiItem.resources
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.UpdateImportDetailltem.resources
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Properties.Resources.resources
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.BaoCaoCongNo.resources
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.BaoCaoTonKho.resources
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.SuaPhieuGiaCong_Form.resources
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.csproj.GenerateResource.cache
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.exe.licenses
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.csproj.CoreCompileInputs.cache
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.exe
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.pdb
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DBQLCuaHangVangBacDaQuy.mdf
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DBQLCuaHangVangBacDaQuy_log.ldf
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\QuanLiBanVang.exe.config
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\QuanLiBanVang.exe
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\QuanLiBanVang.pdb
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\BUL.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.DataAccess.v17.1.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.Office.v17.1.Core.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.PivotGrid.v17.1.Core.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.Utils.v17.1.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.Xpo.v17.1.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraBars.v17.1.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraCharts.v17.1.UI.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraGauges.v17.1.Core.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraReports.v17.1.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DTO.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\EntityFramework.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DAL.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.CodeParser.v17.1.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.DataAccess.v17.1.UI.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraCharts.v17.1.Extensions.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraPivotGrid.v17.1.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.Diagram.v17.1.Core.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraDiagram.v17.1.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\BUL.pdb
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\BUL.dll.config
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DTO.pdb
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DTO.dll.config
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.DataAccess.v17.1.xml
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.Office.v17.1.Core.xml
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.PivotGrid.v17.1.Core.xml
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.Xpo.v17.1.xml
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraCharts.v17.1.UI.xml
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraGauges.v17.1.Core.xml
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraReports.v17.1.xml
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.xml
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\EntityFramework.xml
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DAL.pdb
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DAL.dll.config
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.DataAccess.v17.1.UI.xml
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraPivotGrid.v17.1.xml
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.Diagram.v17.1.Core.xml
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraDiagram.v17.1.xml
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\de\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\es\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\ja\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\de\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\es\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\ja\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\de\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\es\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\ja\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\de\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\es\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\de\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\es\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\ja\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.csproj.CopyComplete
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.csprojAssemblyReference.cache
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.DanhSachNhaCungCap_Form.resources
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.DanhSachPhieuBanHang_Form.resources
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.BaoCaoTonKho_Form.resources
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.DanhSachDichVu.resources
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.DanhSachLoaiSanPham_Form.resources
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.DanhSachPDV.resources
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.DanhSachPhieuChi_Form.resources
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.DanhSachPhieuMua_Form.resources
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.DanhSachSanPham_Form.resources
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.Login_Form.resources
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.MainForm.resources
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.NhaCungCap_Form.resources
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.NhapDichVu.resources
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.NhapLoaiSanPham_Form.resources
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.NhapPhieuChi_Form.resources
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.NhapPhieuDichVu.resources
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.NhapPhieuMua_Form.resources
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.NhapSanPham_Form.resources
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.PhieuBanHang.resources
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.PhieuNhapHang_Form.resources
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.SoTienTraTruoc_Form.resources
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.SuaDichVu.resources
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.SuaKhachHang.resources
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.SuaLoaiSanPham_Form.resources
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.SuaNhanVien_Form.resources
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.SuaPhieuChi_Form.resources
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.SuaPhieuDichVu.resources
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.SuaPhieuMua_Form.resources
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.SuaSanPham_Form.resources
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.UpdateDetaiItem.resources
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.UpdateImportDetailltem.resources
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Properties.Resources.resources
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.BaoCaoCongNo.resources
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.BaoCaoTonKho.resources
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.csproj.GenerateResource.cache
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.exe.licenses
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.csproj.CoreCompileInputs.cache
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.exe
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.pdb
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\QuanLiBanVang.exe.config
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\QuanLiBanVang.exe
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\QuanLiBanVang.pdb
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.DataAccess.v17.1.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.Office.v17.1.Core.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.PivotGrid.v17.1.Core.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.Utils.v17.1.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.Xpo.v17.1.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraBars.v17.1.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraCharts.v17.1.UI.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraGauges.v17.1.Core.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraReports.v17.1.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\EntityFramework.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.CodeParser.v17.1.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.DataAccess.v17.1.UI.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraCharts.v17.1.Extensions.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraPivotGrid.v17.1.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.Diagram.v17.1.Core.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraDiagram.v17.1.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.DataAccess.v17.1.xml
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.Office.v17.1.Core.xml
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.PivotGrid.v17.1.Core.xml
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.Xpo.v17.1.xml
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraCharts.v17.1.UI.xml
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraGauges.v17.1.Core.xml
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraReports.v17.1.xml
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.xml
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\EntityFramework.xml
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.DataAccess.v17.1.UI.xml
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraPivotGrid.v17.1.xml
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.Diagram.v17.1.Core.xml
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\DevExpress.XtraDiagram.v17.1.xml
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\de\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\es\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ja\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\de\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\es\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ja\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\de\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\es\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ja\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\de\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\es\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\de\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\es\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ja\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.csproj.CopyComplete

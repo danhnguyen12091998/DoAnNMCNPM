@@ -49,22 +49,21 @@
             // simpleButtonHuy
             // 
             this.simpleButtonHuy.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("simpleButtonHuy.ImageOptions.Image")));
-            this.simpleButtonHuy.Location = new System.Drawing.Point(222, 165);
+            this.simpleButtonHuy.Location = new System.Drawing.Point(749, 163);
             this.simpleButtonHuy.Name = "simpleButtonHuy";
             this.simpleButtonHuy.Size = new System.Drawing.Size(70, 27);
             this.simpleButtonHuy.TabIndex = 7;
             this.simpleButtonHuy.Text = "Huỷ";
-            //this.simpleButtonHuy.Click += new System.EventHandler(this.simpleButton2_Click);
             // 
             // simpleButtonOK
             // 
             this.simpleButtonOK.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("simpleButtonOK.ImageOptions.Image")));
-            this.simpleButtonOK.Location = new System.Drawing.Point(13, 165);
+            this.simpleButtonOK.Location = new System.Drawing.Point(540, 163);
             this.simpleButtonOK.Name = "simpleButtonOK";
             this.simpleButtonOK.Size = new System.Drawing.Size(70, 27);
             this.simpleButtonOK.TabIndex = 6;
             this.simpleButtonOK.Text = "Lưu";
-            //this.simpleButtonOK.Click += new System.EventHandler(this.simpleButtonOk_Click);
+            this.simpleButtonOK.Click += new System.EventHandler(this.simpleButtonOK_Click);
             // 
             // groupControl1
             // 
@@ -74,7 +73,7 @@
             this.groupControl1.Controls.Add(this.labelControl5);
             this.groupControl1.Controls.Add(this.labelControl4);
             this.groupControl1.Controls.Add(this.labelControl3);
-            this.groupControl1.Location = new System.Drawing.Point(13, 42);
+            this.groupControl1.Location = new System.Drawing.Point(540, 42);
             this.groupControl1.Name = "groupControl1";
             this.groupControl1.Size = new System.Drawing.Size(279, 115);
             this.groupControl1.TabIndex = 5;
@@ -133,7 +132,7 @@
             // 
             // labelControl1
             // 
-            this.labelControl1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left)
+            this.labelControl1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.labelControl1.Appearance.Font = new System.Drawing.Font("Tahoma", 15F, System.Drawing.FontStyle.Bold);
             this.labelControl1.Appearance.ForeColor = System.Drawing.Color.Blue;
@@ -142,26 +141,25 @@
             this.labelControl1.Appearance.Options.UseTextOptions = true;
             this.labelControl1.Appearance.TextOptions.HAlignment = DevExpress.Utils.HorzAlignment.Center;
             this.labelControl1.AutoSizeMode = DevExpress.XtraEditors.LabelAutoSizeMode.None;
-            this.labelControl1.Location = new System.Drawing.Point(12, 12);
+            this.labelControl1.Location = new System.Drawing.Point(13, 12);
             this.labelControl1.Name = "labelControl1";
-            this.labelControl1.Size = new System.Drawing.Size(280, 24);
+            this.labelControl1.Size = new System.Drawing.Size(928, 24);
             this.labelControl1.TabIndex = 4;
             this.labelControl1.Text = "Nhập thông tin khách hàng";
             // 
-            // NhapKhachHang
+            // NhapKhachHang_Form
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(304, 199);
+            this.ClientSize = new System.Drawing.Size(952, 370);
             this.Controls.Add(this.simpleButtonHuy);
             this.Controls.Add(this.simpleButtonOK);
             this.Controls.Add(this.groupControl1);
             this.Controls.Add(this.labelControl1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
-            this.Name = "NhapKhachHang";
-            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Name = "NhapKhachHang_Form";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.Manual;
             this.Text = "Nhập khách hàng";
-            //this.SizeChanged += new System.EventHandler(this.NhapKhachHang_Form_SizeChanged);
             ((System.ComponentModel.ISupportInitialize)(this.groupControl1)).EndInit();
             this.groupControl1.ResumeLayout(false);
             this.groupControl1.PerformLayout();

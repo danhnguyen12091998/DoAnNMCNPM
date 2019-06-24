@@ -16,5 +16,10 @@ namespace QuanLiBanVang.Form
         {
             InitializeComponent();
         }
+
+        private void simpleButtonOK_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

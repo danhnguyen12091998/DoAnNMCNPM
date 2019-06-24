@@ -419,13 +419,11 @@ C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiB
 C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.Diagram.v17.1.Core.resources.dll
 C:\Users\QCIT\source\repos\QLCuaHangVangBacDaQuy.git\trunk\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.csproj.CopyComplete
 C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.csprojAssemblyReference.cache
-C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.DanhSachNhaCungCap_Form.resources
 C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.DanhSachPhieuBanHang_Form.resources
 C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.BaoCaoTonKho_Form.resources
 C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.DanhSachDichVu.resources
 C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.DanhSachLoaiSanPham_Form.resources
 C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.DanhSachPDV.resources
-C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.DanhSachPhieuChi_Form.resources
 C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.DanhSachPhieuMua_Form.resources
 C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.DanhSachSanPham_Form.resources
 C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.Login_Form.resources

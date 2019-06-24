@@ -89,12 +89,6 @@
     <Compile Include="Form\DanhSachKH_Form.Designer.cs">
       <DependentUpon>DanhSachKH_Form.cs</DependentUpon>
     </Compile>
-    <Compile Include="Form\DanhSachNhaCungCap_Form.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Form\DanhSachNhaCungCap_Form.Designer.cs">
-      <DependentUpon>DanhSachNhaCungCap_Form.cs</DependentUpon>
-    </Compile>
     <Compile Include="Form\DanhSachPhieuBanHang_Form.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -128,12 +122,6 @@
     </Compile>
     <Compile Include="Form\DanhSachPDV_Form.Designer.cs">
       <DependentUpon>DanhSachPDV_Form.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Form\DanhSachPhieuChi_Form.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Form\DanhSachPhieuChi_Form.Designer.cs">
-      <DependentUpon>DanhSachPhieuChi_Form.cs</DependentUpon>
     </Compile>
     <Compile Include="Form\DanhSachPhieuMua_Form.cs">
       <SubType>Form</SubType>
@@ -308,9 +296,6 @@
     <EmbeddedResource Include="Form\DanhSachKH_Form.resx">
       <DependentUpon>DanhSachKH_Form.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form\DanhSachNhaCungCap_Form.resx">
-      <DependentUpon>DanhSachNhaCungCap_Form.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Form\DanhSachPhieuBanHang_Form.resx">
       <DependentUpon>DanhSachPhieuBanHang_Form.cs</DependentUpon>
     </EmbeddedResource>
@@ -325,9 +310,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Form\DanhSachPDV_Form.resx">
       <DependentUpon>DanhSachPDV_Form.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Form\DanhSachPhieuChi_Form.resx">
-      <DependentUpon>DanhSachPhieuChi_Form.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form\DanhSachPhieuMua_Form.resx">
       <DependentUpon>DanhSachPhieuMua_Form.cs</DependentUpon>
@@ -422,6 +404,7 @@
       <DependentUpon>BaoCaoTonKho.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="app.config" />
+    <None Include="ClassDiagram1.cd" />
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

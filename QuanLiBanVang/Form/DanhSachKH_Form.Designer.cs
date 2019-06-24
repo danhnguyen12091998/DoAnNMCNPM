@@ -44,10 +44,12 @@
             this.barDockControlBottom = new DevExpress.XtraBars.BarDockControl();
             this.barDockControlLeft = new DevExpress.XtraBars.BarDockControl();
             this.barDockControlRight = new DevExpress.XtraBars.BarDockControl();
+            this.dtgvDanhSachKH = new System.Windows.Forms.DataGridView();
             ((System.ComponentModel.ISupportInitialize)(this.groupControl1)).BeginInit();
             this.groupControl1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.popupMenu1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.barManager1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dtgvDanhSachKH)).BeginInit();
             this.SuspendLayout();
             // 
             // groupControl1
@@ -55,6 +57,7 @@
             this.groupControl1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
+            this.groupControl1.Controls.Add(this.dtgvDanhSachKH);
             this.groupControl1.Controls.Add(this.simpleButtonLamMoi);
             this.groupControl1.Controls.Add(this.simpleButtonXoa);
             this.groupControl1.Controls.Add(this.simpleButtonSua);
@@ -191,6 +194,15 @@
             this.barDockControlRight.Manager = this.barManager1;
             this.barDockControlRight.Size = new System.Drawing.Size(0, 491);
             // 
+            // dtgvDanhSachKH
+            // 
+            this.dtgvDanhSachKH.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dtgvDanhSachKH.Location = new System.Drawing.Point(6, 23);
+            this.dtgvDanhSachKH.Name = "dtgvDanhSachKH";
+            this.dtgvDanhSachKH.Size = new System.Drawing.Size(564, 237);
+            this.dtgvDanhSachKH.TabIndex = 8;
+            this.dtgvDanhSachKH.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
+            // 
             // DanhSachKH_Form
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -209,6 +221,7 @@
             this.groupControl1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.popupMenu1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.barManager1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dtgvDanhSachKH)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -231,5 +244,6 @@
         private DevExpress.XtraBars.BarDockControl barDockControlLeft;
         private DevExpress.XtraBars.BarDockControl barDockControlRight;
         private DevExpress.XtraEditors.SimpleButton simpleButtonLamMoi;
+        private System.Windows.Forms.DataGridView dtgvDanhSachKH;
     }
 }

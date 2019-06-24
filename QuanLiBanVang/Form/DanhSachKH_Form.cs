@@ -21,5 +21,10 @@ namespace QuanLiBanVang.Form
         {
 
         }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }

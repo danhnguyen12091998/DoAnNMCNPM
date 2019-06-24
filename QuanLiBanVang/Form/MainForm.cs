@@ -83,8 +83,7 @@ namespace QuanLiBanVang
 
         private void barButtonItemDSNhaCungCap_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
-            DanhSachNhaCungCap_Form nhaCungCap = new DanhSachNhaCungCap_Form();
-            OpenChildForm(nhaCungCap);
+            
         }
 
         private void barButtonItemDSThoGiaCong_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
@@ -179,8 +178,7 @@ namespace QuanLiBanVang
 
         private void barButtonItem22_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
-            Report.DanhSachPhieuChi_Form dsPhieuChi_frm = new Report.DanhSachPhieuChi_Form();
-            OpenChildForm(dsPhieuChi_frm);
+            
         }
 
         private void barButtonItem23_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)

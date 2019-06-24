@@ -642,3 +642,5 @@ C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\
 C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ja\DevExpress.Diagram.v17.1.Core.resources.dll
 C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.Diagram.v17.1.Core.resources.dll
 C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.csproj.CopyComplete
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.DanhSachKH_Form.resources
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.NhapKhachHang_Form.resources

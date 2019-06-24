@@ -1,6 +1,6 @@
-﻿namespace QuanLiBanVang
+﻿namespace QuanLiBanVang.Form
 {
-    partial class NhapKhachHang
+    partial class NhapKhachHang_Form
     {
         /// <summary>
         /// Required designer variable.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(NhapKhachHang));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(NhapKhachHang_Form));
             this.simpleButtonHuy = new DevExpress.XtraEditors.SimpleButton();
             this.simpleButtonOK = new DevExpress.XtraEditors.SimpleButton();
             this.groupControl1 = new DevExpress.XtraEditors.GroupControl();
@@ -54,7 +54,7 @@
             this.simpleButtonHuy.Size = new System.Drawing.Size(70, 27);
             this.simpleButtonHuy.TabIndex = 7;
             this.simpleButtonHuy.Text = "Huỷ";
-            this.simpleButtonHuy.Click += new System.EventHandler(this.simpleButton2_Click);
+            //this.simpleButtonHuy.Click += new System.EventHandler(this.simpleButton2_Click);
             // 
             // simpleButtonOK
             // 
@@ -64,7 +64,7 @@
             this.simpleButtonOK.Size = new System.Drawing.Size(70, 27);
             this.simpleButtonOK.TabIndex = 6;
             this.simpleButtonOK.Text = "Lưu";
-            this.simpleButtonOK.Click += new System.EventHandler(this.simpleButtonOk_Click);
+            //this.simpleButtonOK.Click += new System.EventHandler(this.simpleButtonOk_Click);
             // 
             // groupControl1
             // 
@@ -133,7 +133,7 @@
             // 
             // labelControl1
             // 
-            this.labelControl1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            this.labelControl1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.labelControl1.Appearance.Font = new System.Drawing.Font("Tahoma", 15F, System.Drawing.FontStyle.Bold);
             this.labelControl1.Appearance.ForeColor = System.Drawing.Color.Blue;
@@ -161,7 +161,7 @@
             this.Name = "NhapKhachHang";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Nhập khách hàng";
-            this.SizeChanged += new System.EventHandler(this.NhapKhachHang_SizeChanged);
+            //this.SizeChanged += new System.EventHandler(this.NhapKhachHang_Form_SizeChanged);
             ((System.ComponentModel.ISupportInitialize)(this.groupControl1)).EndInit();
             this.groupControl1.ResumeLayout(false);
             this.groupControl1.PerformLayout();

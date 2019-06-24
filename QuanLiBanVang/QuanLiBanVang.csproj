@@ -79,8 +79,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DAO\AcountDAO.cs" />
+    <Compile Include="DAO\NhanVienDAO.cs" />
     <Compile Include="DAO\DataProvider.cs" />
+    <Compile Include="DAO\LoaiSanPhamDAO.cs" />
+    <Compile Include="DTO\LoaiSanPhamDTO.cs" />
+    <Compile Include="Form\DanhSachKH_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\DanhSachKH_Form.Designer.cs">
+      <DependentUpon>DanhSachKH_Form.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form\DanhSachNhaCungCap_Form.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -162,6 +170,12 @@
     </Compile>
     <Compile Include="Form\NhapDichVu_Form.Designer.cs">
       <DependentUpon>NhapDichVu_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\NhapKhachHang_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\NhapKhachHang_Form.Designer.cs">
+      <DependentUpon>NhapKhachHang_Form.cs</DependentUpon>
     </Compile>
     <Compile Include="Form\NhapLoaiSanPham_Form.cs">
       <SubType>Form</SubType>
@@ -291,6 +305,9 @@
     <Compile Include="Report\BaoCaoTonKho.Designer.cs">
       <DependentUpon>BaoCaoTonKho.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Form\DanhSachKH_Form.resx">
+      <DependentUpon>DanhSachKH_Form.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form\DanhSachNhaCungCap_Form.resx">
       <DependentUpon>DanhSachNhaCungCap_Form.cs</DependentUpon>
     </EmbeddedResource>
@@ -329,6 +346,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Form\NhapDichVu_Form.resx">
       <DependentUpon>NhapDichVu_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\NhapKhachHang_Form.resx">
+      <DependentUpon>NhapKhachHang_Form.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form\NhapLoaiSanPham_Form.resx">
       <DependentUpon>NhapLoaiSanPham_Form.cs</DependentUpon>
@@ -413,9 +433,7 @@
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="DTO\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
        Other similar extension points exist, see Microsoft.Common.targets.

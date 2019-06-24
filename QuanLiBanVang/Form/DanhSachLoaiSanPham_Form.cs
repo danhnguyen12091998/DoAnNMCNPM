@@ -8,11 +8,18 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using DevExpress.XtraEditors;
+using QuanLiBanVang.DAO;
 
 namespace QuanLiBanVang.Report
 {
     public partial class DanhSachLoaiSanPham_Form : DevExpress.XtraEditors.XtraForm
     {
+
+        public DanhSachLoaiSanPham_Form()
+        {
+            InitializeComponent();
+            LoadDanhSachSanPham();
+        }
 
         private void createTable()
         {
@@ -28,12 +35,6 @@ namespace QuanLiBanVang.Report
 
 
         }
-        public DanhSachLoaiSanPham_Form()
-        {
-            
-            
-        }
-
         private void gridViewProductType_CustomUnboundColumnData(object sender, DevExpress.XtraGrid.Views.Base.CustomColumnDataEventArgs e)
         {
            
@@ -84,10 +85,20 @@ namespace QuanLiBanVang.Report
 
         private void dgvProductType_PopupMenuShowing(object sender, DevExpress.XtraGrid.Views.Grid.PopupMenuShowingEventArgs e)
         {
-           
+            
         }
 
-        private void dgvListProductType_Click(object sender, EventArgs e)
+
+        #region Method
+
+        void LoadDanhSachSanPham()
+        {
+            dtgvLoaiSanPham.DataSource = LoaiSanPhamDAO.Instance.GetDsLoaiSanPham();
+        }
+
+        #endregion
+
+        private void dtgvLoaiSanPham_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
 
         }

@@ -44,7 +44,7 @@ namespace QuanLiBanVang.Report
 
         bool Login(string username, string password)
         {
-            return AcountDAO.Instance.Login(username, password);
+            return NhanVienDAO.Instance.Login(username, password);
         }
 
         private void btnExit_Click(object sender, EventArgs e)

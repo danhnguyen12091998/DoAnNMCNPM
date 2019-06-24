@@ -19,7 +19,7 @@ namespace QuanLiBanVang.Form
         
         public DanhSachPhieuBanHang_Form()
         {
-            
+            InitializeComponent();
         }
 
         private void DanhSachPhieuBanHang_Load(object sender, EventArgs e)

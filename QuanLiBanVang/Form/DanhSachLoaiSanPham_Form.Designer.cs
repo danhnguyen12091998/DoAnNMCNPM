@@ -30,12 +30,10 @@
         {
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(DanhSachLoaiSanPham_Form));
-            DevExpress.XtraGrid.GridLevelNode gridLevelNode1 = new DevExpress.XtraGrid.GridLevelNode();
             this.labelControl1 = new DevExpress.XtraEditors.LabelControl();
             this.groupControl1 = new DevExpress.XtraEditors.GroupControl();
+            this.dtgvLoaiSanPham = new System.Windows.Forms.DataGridView();
             this.btnRefresh = new DevExpress.XtraEditors.SimpleButton();
-            this.dgvListProductType = new DevExpress.XtraGrid.GridControl();
-            this.dgvProductType = new DevExpress.XtraGrid.Views.Grid.GridView();
             this.btnUpdate = new DevExpress.XtraEditors.SimpleButton();
             this.btnDelete = new DevExpress.XtraEditors.SimpleButton();
             this.btnAdd = new DevExpress.XtraEditors.SimpleButton();
@@ -50,8 +48,7 @@
             this.barDockControlRight = new DevExpress.XtraBars.BarDockControl();
             ((System.ComponentModel.ISupportInitialize)(this.groupControl1)).BeginInit();
             this.groupControl1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dgvListProductType)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dgvProductType)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dtgvLoaiSanPham)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.popupMenu1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.barManager1)).BeginInit();
             this.SuspendLayout();
@@ -79,8 +76,8 @@
             this.groupControl1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
+            this.groupControl1.Controls.Add(this.dtgvLoaiSanPham);
             this.groupControl1.Controls.Add(this.btnRefresh);
-            this.groupControl1.Controls.Add(this.dgvListProductType);
             this.groupControl1.Controls.Add(this.btnUpdate);
             this.groupControl1.Controls.Add(this.btnDelete);
             this.groupControl1.Controls.Add(this.btnAdd);
@@ -90,6 +87,15 @@
             this.groupControl1.Size = new System.Drawing.Size(548, 345);
             this.groupControl1.TabIndex = 1;
             this.groupControl1.Text = "Thông tin";
+            // 
+            // dtgvLoaiSanPham
+            // 
+            this.dtgvLoaiSanPham.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dtgvLoaiSanPham.Location = new System.Drawing.Point(5, 29);
+            this.dtgvLoaiSanPham.Name = "dtgvLoaiSanPham";
+            this.dtgvLoaiSanPham.Size = new System.Drawing.Size(433, 272);
+            this.dtgvLoaiSanPham.TabIndex = 5;
+            this.dtgvLoaiSanPham.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dtgvLoaiSanPham_CellContentClick);
             // 
             // btnRefresh
             // 
@@ -102,38 +108,6 @@
             this.btnRefresh.TabIndex = 4;
             this.btnRefresh.Text = "Làm mới";
             this.btnRefresh.Click += new System.EventHandler(this.btnRefresh_Click);
-            // 
-            // dgvListProductType
-            // 
-            this.dgvListProductType.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.dgvListProductType.EmbeddedNavigator.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            gridLevelNode1.RelationName = "Level1";
-            this.dgvListProductType.LevelTree.Nodes.AddRange(new DevExpress.XtraGrid.GridLevelNode[] {
-            gridLevelNode1});
-            this.dgvListProductType.Location = new System.Drawing.Point(6, 27);
-            this.dgvListProductType.MainView = this.dgvProductType;
-            this.dgvListProductType.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.dgvListProductType.Name = "dgvListProductType";
-            this.dgvListProductType.Size = new System.Drawing.Size(441, 312);
-            this.dgvListProductType.TabIndex = 0;
-            this.dgvListProductType.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
-            this.dgvProductType});
-            this.dgvListProductType.Click += new System.EventHandler(this.dgvListProductType_Click);
-            // 
-            // dgvProductType
-            // 
-            this.dgvProductType.GridControl = this.dgvListProductType;
-            this.dgvProductType.Name = "dgvProductType";
-            this.dgvProductType.OptionsBehavior.Editable = false;
-            this.dgvProductType.OptionsCustomization.AllowColumnMoving = false;
-            this.dgvProductType.OptionsCustomization.AllowColumnResizing = false;
-            this.dgvProductType.OptionsSelection.EnableAppearanceFocusedCell = false;
-            this.dgvProductType.OptionsSelection.MultiSelect = true;
-            this.dgvProductType.OptionsView.ShowGroupPanel = false;
-            this.dgvProductType.PopupMenuShowing += new DevExpress.XtraGrid.Views.Grid.PopupMenuShowingEventHandler(this.dgvProductType_PopupMenuShowing);
-            this.dgvProductType.CustomUnboundColumnData += new DevExpress.XtraGrid.Views.Base.CustomColumnDataEventHandler(this.gridViewProductType_CustomUnboundColumnData);
             // 
             // btnUpdate
             // 
@@ -269,8 +243,7 @@
             this.Load += new System.EventHandler(this.DanhSachLoaiSanPham_Form_Load);
             ((System.ComponentModel.ISupportInitialize)(this.groupControl1)).EndInit();
             this.groupControl1.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.dgvListProductType)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dgvProductType)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dtgvLoaiSanPham)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.popupMenu1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.barManager1)).EndInit();
             this.ResumeLayout(false);
@@ -282,8 +255,6 @@
 
         private DevExpress.XtraEditors.LabelControl labelControl1;
         private DevExpress.XtraEditors.GroupControl groupControl1;
-        private DevExpress.XtraGrid.GridControl dgvListProductType;
-        private DevExpress.XtraGrid.Views.Grid.GridView dgvProductType;
         private DevExpress.XtraEditors.SimpleButton btnAdd;
         private DevExpress.XtraEditors.SimpleButton btnDelete;
         private DevExpress.XtraEditors.SimpleButton btnUpdate;
@@ -299,5 +270,6 @@
         private DevExpress.XtraBars.BarButtonItem barButtonItem2;
         private DevExpress.XtraBars.BarButtonItem barButtonItemCapNhat;
         private DevExpress.XtraBars.BarButtonItem barButtonItemXoa;
+        private System.Windows.Forms.DataGridView dtgvLoaiSanPham;
     }
 }

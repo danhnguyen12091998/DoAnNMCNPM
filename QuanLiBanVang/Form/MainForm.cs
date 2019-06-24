@@ -259,8 +259,18 @@ namespace QuanLiBanVang
             
         }
 
+        
 
+        private void btnThemKhachHang_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+            NhapKhachHang_Form nhapKhachHang = new NhapKhachHang_Form();
+            OpenChildForm(nhapKhachHang);
+        }
 
-
+        private void btnKhachHang_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+            DanhSachKH_Form DSKhachHang = new DanhSachKH_Form();
+            OpenChildForm(DSKhachHang);
+        }
     }
 }

@@ -10,6 +10,8 @@ using System.Windows.Forms;
 using DevExpress.XtraEditors;
 using System.Data;
 using DevExpress.XtraGrid.Columns;
+using QuanLiBanVang.DAO;
+
 namespace QuanLiBanVang.Report
 {
     public partial class DanhSachSanPham_Form : DevExpress.XtraEditors.XtraForm
@@ -84,10 +86,17 @@ namespace QuanLiBanVang.Report
 
         private void dgvProduct_PopupMenuShowing(object sender, DevExpress.XtraGrid.Views.Grid.PopupMenuShowingEventArgs e)
         {
-            if (e.MenuType == DevExpress.XtraGrid.Views.Grid.GridMenuType.Row)
-                popupMenu1.ShowPopup(MousePosition);
+           
         }
 
-  
+        private void dgvListProduct_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void labelControl1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -82,7 +82,9 @@
     <Compile Include="DAO\NhanVienDAO.cs" />
     <Compile Include="DAO\DataProvider.cs" />
     <Compile Include="DAO\LoaiSanPhamDAO.cs" />
+    <Compile Include="DAO\SanPhamDAO.cs" />
     <Compile Include="DTO\LoaiSanPhamDTO.cs" />
+    <Compile Include="DTO\SanPhamDTO.cs" />
     <Compile Include="Form\DanhSachKH_Form.cs">
       <SubType>Form</SubType>
     </Compile>

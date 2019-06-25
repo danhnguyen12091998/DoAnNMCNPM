@@ -8,6 +8,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using DevExpress.XtraEditors;
+using QuanLiBanVang.DAO;
 
 namespace QuanLiBanVang.Report
 {
@@ -22,12 +23,38 @@ namespace QuanLiBanVang.Report
         
         private void Clear()
         {
-            
+            this.txtMaloai.Text = "";
+            this.txtName.Text = "";
+            this.txtPercent.Text = "";
+            this.txtDVT.Text = "";
         }
+
+
         private void btnSave_Click(object sender, EventArgs e)
         {
-            
-        }
+            string maLoaiSP = txtMaloai.Text;
+            string tenLoaiSP = txtName.Text;
+            float phanTram = float.Parse(txtPercent.Text);
+            string maDVT = txtDVT.Text;
+
+            if (LoaiSanPhamDAO.Instance.CheckMaLoaiSP(maLoaiSP) == false)
+            {
+                if (LoaiSanPhamDAO.Instance.ThemLoaiSanPham(maLoaiSP, tenLoaiSP, phanTram, maDVT))
+                {
+                    MessageBox.Show("Thêm loại sản phẩm thành công !");
+                }
+                else
+                {
+                    MessageBox.Show("Có lỗi khi thêm mới loại sản phẩm !");
+                }
+            }
+            else
+            {
+                MessageBox.Show("Trùng mã loại sản phẩm, vui lòng kiểm tra lại !");
+            }
+
+
+         } 
 
         private void btnCancel_Click(object sender, EventArgs e)
         {
@@ -41,5 +68,12 @@ namespace QuanLiBanVang.Report
             btnCancel.Left = groupControlInfo.Right - btnCancel.Width;
             btnSave.Left = btnCancel.Left - btnSave.Width - 10; 
         }
+
+        private void labelControl6_Click(object sender, EventArgs e)
+        {
+
+        }
+
+
     }
 }

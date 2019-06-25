@@ -55,7 +55,8 @@ namespace QuanLiBanVang.Report
 
         private void btnAdd_Click(object sender, EventArgs e)
         {
-            
+            NhapLoaiSanPham_Form nhapLoaiSP = new NhapLoaiSanPham_Form();
+            nhapLoaiSP.ShowDialog();
         }
 
         private void btnDelete_Click(object sender, EventArgs e)
@@ -64,13 +65,13 @@ namespace QuanLiBanVang.Report
         }
 
         private void btnUpdate_Click(object sender, EventArgs e)
-        {
-            
+        { 
+
         }
 
         private void btnRefresh_Click(object sender, EventArgs e)
         {
-            
+            LoadDanhSachSanPham();
         }
 
         private void barButtonItemCapNhat_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)

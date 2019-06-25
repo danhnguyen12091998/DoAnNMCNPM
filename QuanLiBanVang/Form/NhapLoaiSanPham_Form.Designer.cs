@@ -31,6 +31,10 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(NhapLoaiSanPham_Form));
             this.labelControl1 = new DevExpress.XtraEditors.LabelControl();
             this.groupControlInfo = new DevExpress.XtraEditors.GroupControl();
+            this.txtDVT = new DevExpress.XtraEditors.TextEdit();
+            this.txtMaloai = new DevExpress.XtraEditors.TextEdit();
+            this.labelControl6 = new DevExpress.XtraEditors.LabelControl();
+            this.labelControl5 = new DevExpress.XtraEditors.LabelControl();
             this.txtPercent = new DevExpress.XtraEditors.TextEdit();
             this.txtName = new DevExpress.XtraEditors.TextEdit();
             this.labelControl4 = new DevExpress.XtraEditors.LabelControl();
@@ -38,13 +42,12 @@
             this.labelControl2 = new DevExpress.XtraEditors.LabelControl();
             this.btnSave = new DevExpress.XtraEditors.SimpleButton();
             this.btnCancel = new DevExpress.XtraEditors.SimpleButton();
-            this.textEdit1 = new DevExpress.XtraEditors.TextEdit();
-            this.labelControl5 = new DevExpress.XtraEditors.LabelControl();
             ((System.ComponentModel.ISupportInitialize)(this.groupControlInfo)).BeginInit();
             this.groupControlInfo.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.txtDVT.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txtMaloai.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.txtPercent.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.txtName.Properties)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.textEdit1.Properties)).BeginInit();
             this.SuspendLayout();
             // 
             // labelControl1
@@ -66,37 +69,74 @@
             // 
             // groupControlInfo
             // 
-            this.groupControlInfo.Controls.Add(this.textEdit1);
+            this.groupControlInfo.Controls.Add(this.txtDVT);
+            this.groupControlInfo.Controls.Add(this.txtMaloai);
+            this.groupControlInfo.Controls.Add(this.labelControl6);
             this.groupControlInfo.Controls.Add(this.labelControl5);
             this.groupControlInfo.Controls.Add(this.txtPercent);
             this.groupControlInfo.Controls.Add(this.txtName);
             this.groupControlInfo.Controls.Add(this.labelControl4);
             this.groupControlInfo.Controls.Add(this.labelControl3);
             this.groupControlInfo.Controls.Add(this.labelControl2);
-            this.groupControlInfo.Location = new System.Drawing.Point(12, 51);
+            this.groupControlInfo.Location = new System.Drawing.Point(12, 42);
             this.groupControlInfo.Name = "groupControlInfo";
-            this.groupControlInfo.Size = new System.Drawing.Size(328, 124);
+            this.groupControlInfo.Size = new System.Drawing.Size(328, 150);
             this.groupControlInfo.TabIndex = 1;
             this.groupControlInfo.Text = "Thông tin loại sản phẩm";
             // 
+            // txtDVT
+            // 
+            this.txtDVT.Location = new System.Drawing.Point(129, 113);
+            this.txtDVT.Name = "txtDVT";
+            this.txtDVT.Properties.Mask.EditMask = "(\\p{L}|[0-9]|\\s){1,100}";
+            this.txtDVT.Properties.Mask.MaskType = DevExpress.XtraEditors.Mask.MaskType.RegEx;
+            this.txtDVT.Size = new System.Drawing.Size(132, 20);
+            this.txtDVT.TabIndex = 4;
+            // 
+            // txtMaloai
+            // 
+            this.txtMaloai.Location = new System.Drawing.Point(129, 34);
+            this.txtMaloai.Name = "txtMaloai";
+            this.txtMaloai.Properties.Mask.EditMask = "(\\p{L}|[0-9]|\\s){1,100}";
+            this.txtMaloai.Properties.Mask.MaskType = DevExpress.XtraEditors.Mask.MaskType.RegEx;
+            this.txtMaloai.Size = new System.Drawing.Size(132, 20);
+            this.txtMaloai.TabIndex = 1;
+            // 
+            // labelControl6
+            // 
+            this.labelControl6.Location = new System.Drawing.Point(14, 37);
+            this.labelControl6.Name = "labelControl6";
+            this.labelControl6.Size = new System.Drawing.Size(82, 13);
+            this.labelControl6.TabIndex = 5;
+            this.labelControl6.Text = "Mã loại sản phẩm";
+            this.labelControl6.Click += new System.EventHandler(this.labelControl6_Click);
+            // 
+            // labelControl5
+            // 
+            this.labelControl5.Location = new System.Drawing.Point(14, 116);
+            this.labelControl5.Name = "labelControl5";
+            this.labelControl5.Size = new System.Drawing.Size(69, 13);
+            this.labelControl5.TabIndex = 3;
+            this.labelControl5.Text = "Mã Đơn vị tính";
+            // 
             // txtPercent
             // 
-            this.txtPercent.Location = new System.Drawing.Point(120, 61);
+            this.txtPercent.Location = new System.Drawing.Point(129, 87);
             this.txtPercent.Name = "txtPercent";
             this.txtPercent.Properties.Mask.EditMask = "[0-9]+(\\R.\\d{0,2})?";
             this.txtPercent.Properties.Mask.MaskType = DevExpress.XtraEditors.Mask.MaskType.RegEx;
             this.txtPercent.Properties.MaxLength = 5;
             this.txtPercent.Size = new System.Drawing.Size(100, 20);
-            this.txtPercent.TabIndex = 2;
+            this.txtPercent.TabIndex = 3;
             // 
             // txtName
             // 
-            this.txtName.Location = new System.Drawing.Point(120, 35);
+            this.txtName.Location = new System.Drawing.Point(129, 61);
             this.txtName.Name = "txtName";
             this.txtName.Properties.Mask.EditMask = "(\\p{L}|[0-9]|\\s){1,100}";
             this.txtName.Properties.Mask.MaskType = DevExpress.XtraEditors.Mask.MaskType.RegEx;
             this.txtName.Size = new System.Drawing.Size(132, 20);
-            this.txtName.TabIndex = 1;
+            this.txtName.TabIndex = 2;
             // 
             // labelControl4
             // 
@@ -104,7 +144,7 @@
             this.labelControl4.Appearance.ForeColor = System.Drawing.Color.Red;
             this.labelControl4.Appearance.Options.UseFont = true;
             this.labelControl4.Appearance.Options.UseForeColor = true;
-            this.labelControl4.Location = new System.Drawing.Point(226, 62);
+            this.labelControl4.Location = new System.Drawing.Point(235, 88);
             this.labelControl4.Name = "labelControl4";
             this.labelControl4.Size = new System.Drawing.Size(14, 16);
             this.labelControl4.TabIndex = 2;
@@ -112,7 +152,7 @@
             // 
             // labelControl3
             // 
-            this.labelControl3.Location = new System.Drawing.Point(5, 64);
+            this.labelControl3.Location = new System.Drawing.Point(14, 90);
             this.labelControl3.Name = "labelControl3";
             this.labelControl3.Size = new System.Drawing.Size(95, 13);
             this.labelControl3.TabIndex = 1;
@@ -120,7 +160,7 @@
             // 
             // labelControl2
             // 
-            this.labelControl2.Location = new System.Drawing.Point(5, 38);
+            this.labelControl2.Location = new System.Drawing.Point(14, 64);
             this.labelControl2.Name = "labelControl2";
             this.labelControl2.Size = new System.Drawing.Size(86, 13);
             this.labelControl2.TabIndex = 0;
@@ -135,7 +175,7 @@
             this.btnSave.Location = new System.Drawing.Point(11, 198);
             this.btnSave.Name = "btnSave";
             this.btnSave.Size = new System.Drawing.Size(87, 27);
-            this.btnSave.TabIndex = 3;
+            this.btnSave.TabIndex = 5;
             this.btnSave.Text = "Lưu";
             this.btnSave.Click += new System.EventHandler(this.btnSave_Click);
             // 
@@ -148,27 +188,9 @@
             this.btnCancel.Location = new System.Drawing.Point(253, 198);
             this.btnCancel.Name = "btnCancel";
             this.btnCancel.Size = new System.Drawing.Size(87, 27);
-            this.btnCancel.TabIndex = 4;
+            this.btnCancel.TabIndex = 6;
             this.btnCancel.Text = "Hủy";
             this.btnCancel.Click += new System.EventHandler(this.btnCancel_Click);
-            // 
-            // textEdit1
-            // 
-            this.textEdit1.Location = new System.Drawing.Point(120, 87);
-            this.textEdit1.Name = "textEdit1";
-            this.textEdit1.Properties.Mask.EditMask = "[0-9]+(\\R.\\d{0,2})?";
-            this.textEdit1.Properties.Mask.MaskType = DevExpress.XtraEditors.Mask.MaskType.RegEx;
-            this.textEdit1.Properties.MaxLength = 5;
-            this.textEdit1.Size = new System.Drawing.Size(100, 20);
-            this.textEdit1.TabIndex = 4;
-            // 
-            // labelControl5
-            // 
-            this.labelControl5.Location = new System.Drawing.Point(5, 90);
-            this.labelControl5.Name = "labelControl5";
-            this.labelControl5.Size = new System.Drawing.Size(69, 13);
-            this.labelControl5.TabIndex = 3;
-            this.labelControl5.Text = "Mã Đơn vị tính";
             // 
             // NhapLoaiSanPham_Form
             // 
@@ -187,9 +209,10 @@
             ((System.ComponentModel.ISupportInitialize)(this.groupControlInfo)).EndInit();
             this.groupControlInfo.ResumeLayout(false);
             this.groupControlInfo.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.txtDVT.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txtMaloai.Properties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.txtPercent.Properties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.txtName.Properties)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.textEdit1.Properties)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -205,7 +228,9 @@
         private DevExpress.XtraEditors.LabelControl labelControl2;
         private DevExpress.XtraEditors.SimpleButton btnSave;
         private DevExpress.XtraEditors.SimpleButton btnCancel;
-        private DevExpress.XtraEditors.TextEdit textEdit1;
         private DevExpress.XtraEditors.LabelControl labelControl5;
+        private DevExpress.XtraEditors.LabelControl labelControl6;
+        private DevExpress.XtraEditors.TextEdit txtMaloai;
+        private DevExpress.XtraEditors.TextEdit txtDVT;
     }
 }

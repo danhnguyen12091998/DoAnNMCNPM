@@ -41,11 +41,12 @@ namespace QuanLiBanVang.DAO
         {
             string query = string.Format("SELECT COUNT(*) MaLoaiSanPham FROM LOAISANPHAM WHERE MaLoaiSanPham = N'{0}'",MaLoaiSP);
 
-            int result = DataProvider.Instance.ExecuteNonQuery(query);
+            int result = (int)DataProvider.Instance.ExecuteScalar(query);
+            
+            if (result == 1) return true;
 
-            if (result == -1) return true;
+            else return false;
 
-            return false;
         }
 
 
@@ -59,6 +60,53 @@ namespace QuanLiBanVang.DAO
            
         }
 
+        public bool CapNhatLoaiSanPham(string MaLoaiSP, string TenLoaiSP, float PhanTram, string MaDVT)
+        {
+            string query = string.Format("UPDATE LOAISANPHAM SET TenLoaiSanPham =N'{0}',PhanTramLoiNhuan = {1}, MaDonViTinh = N'{2}' WHERE MaLoaiSanPham = N'{3}'",TenLoaiSP, PhanTram, MaDVT, MaLoaiSP);
+
+            int result = DataProvider.Instance.ExecuteNonQuery(query);
+
+            return result > 0;
+
+        }
+
+        public bool XoaLoaiSanPham(string MaLoaiSP, string TenLoaiSP, float PhanTram, string MaDVT)
+        {
+            string query = string.Format("");
+
+            int result = DataProvider.Instance.ExecuteNonQuery(query);
+
+            return result > 0;
+
+        }
+
+
+        public List<LoaiSanPhamDTO> GetListMaLoaiSP()
+        {
+            List<LoaiSanPhamDTO> list = new List<LoaiSanPhamDTO>();
+
+            string query = "select * from LOAISANPHAM";
+            DataTable data = DataProvider.Instance.ExecuteQuery(query);
+
+            foreach (DataRow item in data.Rows)
+            {
+                LoaiSanPhamDTO loaiSP = new LoaiSanPhamDTO(item);
+                list.Add(loaiSP);
+            }
+
+            return list;
+        }
+
+
+        public float GetPhanTramLoiNhuan(string maLoaiSP)
+
+        {
+            string query = String.Format("SELECT LOAISANPHAM.PhanTramLoiNhuan FROM LOAISANPHAM WHERE MaLoaiSanPham = N'{0}'",maLoaiSP);
+
+            float result =float.Parse(DataProvider.Instance.ExecuteScalar(query).ToString());
+
+            return result;
+        }
 
     }
 }

@@ -79,17 +79,29 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DAO\DichVuDAO.cs" />
+    <Compile Include="DAO\NhaCungCapDAO.cs" />
     <Compile Include="DAO\NhanVienDAO.cs" />
     <Compile Include="DAO\DataProvider.cs" />
     <Compile Include="DAO\LoaiSanPhamDAO.cs" />
     <Compile Include="DAO\SanPhamDAO.cs" />
+    <Compile Include="DTO\ChiTietPhieuBanHangDTO.cs" />
+    <Compile Include="DTO\DichVuDTO.cs" />
     <Compile Include="DTO\LoaiSanPhamDTO.cs" />
+    <Compile Include="DTO\NhaCungCapDTO.cs" />
+    <Compile Include="DTO\PhieuBanHangDTO.cs" />
     <Compile Include="DTO\SanPhamDTO.cs" />
     <Compile Include="Form\DanhSachKH_Form.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form\DanhSachKH_Form.Designer.cs">
       <DependentUpon>DanhSachKH_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\DanhSachNhaCungCap_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\DanhSachNhaCungCap_Form.Designer.cs">
+      <DependentUpon>DanhSachNhaCungCap_Form.cs</DependentUpon>
     </Compile>
     <Compile Include="Form\DanhSachPhieuBanHang_Form.cs">
       <SubType>Form</SubType>
@@ -149,17 +161,35 @@
     <Compile Include="Form\MainForm.Designer.cs">
       <DependentUpon>MainForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="Form\NhaCungCap_Form.cs">
+    <Compile Include="Form\NhapPhieuBanHang_Form.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form\NhaCungCap_Form.designer.cs">
-      <DependentUpon>NhaCungCap_Form.cs</DependentUpon>
+    <Compile Include="Form\NhapPhieuBanHang_Form.Designer.cs">
+      <DependentUpon>NhapPhieuBanHang_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\SuaDichVu_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\SuaDichVu_Form.Designer.cs">
+      <DependentUpon>SuaDichVu_Form.cs</DependentUpon>
     </Compile>
     <Compile Include="Form\NhapDichVu_Form.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form\NhapDichVu_Form.Designer.cs">
       <DependentUpon>NhapDichVu_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\SuaNhaCungCap_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\SuaNhaCungCap_Form.designer.cs">
+      <DependentUpon>SuaNhaCungCap_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\NhaCungCap_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\NhaCungCap_Form.designer.cs">
+      <DependentUpon>NhaCungCap_Form.cs</DependentUpon>
     </Compile>
     <Compile Include="Form\NhapKhachHang_Form.cs">
       <SubType>Form</SubType>
@@ -197,12 +227,6 @@
     <Compile Include="Form\NhapSanPham_Form.Designer.cs">
       <DependentUpon>NhapSanPham_Form.cs</DependentUpon>
     </Compile>
-    <Compile Include="Form\PhieuBanHang_Form.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Form\PhieuBanHang_Form.designer.cs">
-      <DependentUpon>PhieuBanHang_Form.cs</DependentUpon>
-    </Compile>
     <Compile Include="Form\PhieuNhapHang_Form.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -214,12 +238,6 @@
     </Compile>
     <Compile Include="Form\SoTienTraTruoc_Form.Designer.cs">
       <DependentUpon>SoTienTraTruoc_Form.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Form\SuaDichVu_Form.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Form\SuaDichVu_Form.Designer.cs">
-      <DependentUpon>SuaDichVu_Form.cs</DependentUpon>
     </Compile>
     <Compile Include="Form\SuaKhachHang_Form.cs">
       <SubType>Form</SubType>
@@ -275,6 +293,12 @@
     <Compile Include="Form\UpdateImportDetailltem.Designer.cs">
       <DependentUpon>UpdateImportDetailltem.cs</DependentUpon>
     </Compile>
+    <Compile Include="Form\XoaLoaiSanPham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\XoaLoaiSanPham.Designer.cs">
+      <DependentUpon>XoaLoaiSanPham.cs</DependentUpon>
+    </Compile>
     <Compile Include="Model\ActionType.cs" />
     <Compile Include="Model\ErrorMessage.cs" />
     <Compile Include="Model\GridViewDataSource.cs" />
@@ -297,6 +321,9 @@
     </Compile>
     <EmbeddedResource Include="Form\DanhSachKH_Form.resx">
       <DependentUpon>DanhSachKH_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\DanhSachNhaCungCap_Form.resx">
+      <DependentUpon>DanhSachNhaCungCap_Form.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form\DanhSachPhieuBanHang_Form.resx">
       <DependentUpon>DanhSachPhieuBanHang_Form.cs</DependentUpon>
@@ -325,11 +352,20 @@
     <EmbeddedResource Include="Form\MainForm.resx">
       <DependentUpon>MainForm.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form\NhaCungCap_Form.resx">
-      <DependentUpon>NhaCungCap_Form.cs</DependentUpon>
+    <EmbeddedResource Include="Form\NhapPhieuBanHang_Form.resx">
+      <DependentUpon>NhapPhieuBanHang_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\SuaDichVu_Form.resx">
+      <DependentUpon>SuaDichVu_Form.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form\NhapDichVu_Form.resx">
       <DependentUpon>NhapDichVu_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\SuaNhaCungCap_Form.resx">
+      <DependentUpon>SuaNhaCungCap_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\NhaCungCap_Form.resx">
+      <DependentUpon>NhaCungCap_Form.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form\NhapKhachHang_Form.resx">
       <DependentUpon>NhapKhachHang_Form.cs</DependentUpon>
@@ -349,17 +385,11 @@
     <EmbeddedResource Include="Form\NhapSanPham_Form.resx">
       <DependentUpon>NhapSanPham_Form.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form\PhieuBanHang_Form.resx">
-      <DependentUpon>PhieuBanHang_Form.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Form\PhieuNhapHang_Form.resx">
       <DependentUpon>PhieuNhapHang_Form.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form\SoTienTraTruoc_Form.resx">
       <DependentUpon>SoTienTraTruoc_Form.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Form\SuaDichVu_Form.resx">
-      <DependentUpon>SuaDichVu_Form.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form\SuaKhachHang_Form.resx">
       <DependentUpon>SuaKhachHang_Form.cs</DependentUpon>
@@ -387,6 +417,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Form\UpdateImportDetailltem.resx">
       <DependentUpon>UpdateImportDetailltem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\XoaLoaiSanPham.resx">
+      <DependentUpon>XoaLoaiSanPham.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\licenses.licx" />
     <EmbeddedResource Include="Properties\Resources.resx">

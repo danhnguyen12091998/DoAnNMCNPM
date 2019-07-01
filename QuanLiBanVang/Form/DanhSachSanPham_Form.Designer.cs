@@ -31,11 +31,10 @@
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(DanhSachSanPham_Form));
             this.groupControlListProduct = new DevExpress.XtraEditors.GroupControl();
-            this.btnRefresh = new DevExpress.XtraEditors.SimpleButton();
-            this.dgvListProduct = new DevExpress.XtraGrid.GridControl();
-            this.dgvProduct = new DevExpress.XtraGrid.Views.Grid.GridView();
-            this.btnAdd = new DevExpress.XtraEditors.SimpleButton();
             this.btnDelete = new DevExpress.XtraEditors.SimpleButton();
+            this.dtgvSanPham = new System.Windows.Forms.DataGridView();
+            this.btnRefresh = new DevExpress.XtraEditors.SimpleButton();
+            this.btnAdd = new DevExpress.XtraEditors.SimpleButton();
             this.btnUpdate = new DevExpress.XtraEditors.SimpleButton();
             this.btnExit = new DevExpress.XtraEditors.SimpleButton();
             this.labelControl1 = new DevExpress.XtraEditors.LabelControl();
@@ -49,8 +48,7 @@
             this.barDockControlRight = new DevExpress.XtraBars.BarDockControl();
             ((System.ComponentModel.ISupportInitialize)(this.groupControlListProduct)).BeginInit();
             this.groupControlListProduct.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dgvListProduct)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dgvProduct)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dtgvSanPham)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.popupMenu1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.barManager1)).BeginInit();
             this.SuspendLayout();
@@ -60,16 +58,39 @@
             this.groupControlListProduct.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.groupControlListProduct.Controls.Add(this.btnRefresh);
-            this.groupControlListProduct.Controls.Add(this.dgvListProduct);
-            this.groupControlListProduct.Controls.Add(this.btnAdd);
             this.groupControlListProduct.Controls.Add(this.btnDelete);
+            this.groupControlListProduct.Controls.Add(this.dtgvSanPham);
+            this.groupControlListProduct.Controls.Add(this.btnRefresh);
+            this.groupControlListProduct.Controls.Add(this.btnAdd);
             this.groupControlListProduct.Controls.Add(this.btnUpdate);
             this.groupControlListProduct.Location = new System.Drawing.Point(12, 45);
             this.groupControlListProduct.Name = "groupControlListProduct";
             this.groupControlListProduct.Size = new System.Drawing.Size(624, 317);
             this.groupControlListProduct.TabIndex = 0;
             this.groupControlListProduct.Text = "Thông tin";
+            // 
+            // btnDelete
+            // 
+            this.btnDelete.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnDelete.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnDelete.ImageOptions.Image")));
+            this.btnDelete.Location = new System.Drawing.Point(526, 89);
+            this.btnDelete.Name = "btnDelete";
+            this.btnDelete.Size = new System.Drawing.Size(87, 31);
+            this.btnDelete.TabIndex = 6;
+            this.btnDelete.Text = "Xóa";
+            this.btnDelete.Click += new System.EventHandler(this.simpleButton1_Click);
+            // 
+            // dtgvSanPham
+            // 
+            this.dtgvSanPham.AllowDrop = true;
+            this.dtgvSanPham.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.ColumnHeader;
+            this.dtgvSanPham.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.AllHeaders;
+            this.dtgvSanPham.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dtgvSanPham.Location = new System.Drawing.Point(10, 23);
+            this.dtgvSanPham.Name = "dtgvSanPham";
+            this.dtgvSanPham.Size = new System.Drawing.Size(510, 289);
+            this.dtgvSanPham.TabIndex = 5;
+            this.dtgvSanPham.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dtgvSanPham_CellContentClick);
             // 
             // btnRefresh
             // 
@@ -82,35 +103,6 @@
             this.btnRefresh.Text = "Làm mới";
             this.btnRefresh.Click += new System.EventHandler(this.btnRefresh_Click);
             // 
-            // dgvListProduct
-            // 
-            this.dgvListProduct.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.dgvListProduct.Location = new System.Drawing.Point(5, 23);
-            this.dgvListProduct.MainView = this.dgvProduct;
-            this.dgvListProduct.Name = "dgvListProduct";
-            this.dgvListProduct.Size = new System.Drawing.Size(512, 289);
-            this.dgvListProduct.TabIndex = 0;
-            this.dgvListProduct.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
-            this.dgvProduct});
-            this.dgvListProduct.Click += new System.EventHandler(this.dgvListProduct_Click);
-            // 
-            // dgvProduct
-            // 
-            this.dgvProduct.GridControl = this.dgvListProduct;
-            this.dgvProduct.Name = "dgvProduct";
-            this.dgvProduct.OptionsBehavior.AllowAddRows = DevExpress.Utils.DefaultBoolean.False;
-            this.dgvProduct.OptionsBehavior.AllowDeleteRows = DevExpress.Utils.DefaultBoolean.False;
-            this.dgvProduct.OptionsBehavior.Editable = false;
-            this.dgvProduct.OptionsCustomization.AllowColumnMoving = false;
-            this.dgvProduct.OptionsCustomization.AllowColumnResizing = false;
-            this.dgvProduct.OptionsSelection.EnableAppearanceFocusedCell = false;
-            this.dgvProduct.OptionsSelection.MultiSelect = true;
-            this.dgvProduct.OptionsView.ShowGroupPanel = false;
-            this.dgvProduct.PopupMenuShowing += new DevExpress.XtraGrid.Views.Grid.PopupMenuShowingEventHandler(this.dgvProduct_PopupMenuShowing);
-            this.dgvProduct.CustomUnboundColumnData += new DevExpress.XtraGrid.Views.Base.CustomColumnDataEventHandler(this.dgvProduct_CustomUnboundColumnData);
-            // 
             // btnAdd
             // 
             this.btnAdd.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
@@ -121,18 +113,6 @@
             this.btnAdd.TabIndex = 1;
             this.btnAdd.Text = "Thêm";
             this.btnAdd.Click += new System.EventHandler(this.btnAdd_Click);
-            // 
-            // btnDelete
-            // 
-            this.btnDelete.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnDelete.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnDelete.ImageOptions.Image")));
-            this.btnDelete.Location = new System.Drawing.Point(526, 89);
-            this.btnDelete.Name = "btnDelete";
-            this.btnDelete.Size = new System.Drawing.Size(87, 27);
-            this.btnDelete.TabIndex = 2;
-            this.btnDelete.Text = "Xóa";
-            this.btnDelete.Visible = false;
-            this.btnDelete.Click += new System.EventHandler(this.btnDelete_Click);
             // 
             // btnUpdate
             // 
@@ -257,8 +237,7 @@
             this.Load += new System.EventHandler(this.DanhSachSanPham_Form_Load);
             ((System.ComponentModel.ISupportInitialize)(this.groupControlListProduct)).EndInit();
             this.groupControlListProduct.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.dgvListProduct)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dgvProduct)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dtgvSanPham)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.popupMenu1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.barManager1)).EndInit();
             this.ResumeLayout(false);
@@ -269,10 +248,7 @@
         #endregion
 
         private DevExpress.XtraEditors.GroupControl groupControlListProduct;
-        private DevExpress.XtraGrid.GridControl dgvListProduct;
-        private DevExpress.XtraGrid.Views.Grid.GridView dgvProduct;
         private DevExpress.XtraEditors.SimpleButton btnAdd;
-        private DevExpress.XtraEditors.SimpleButton btnDelete;
         private DevExpress.XtraEditors.SimpleButton btnUpdate;
         private DevExpress.XtraEditors.SimpleButton btnExit;
         private DevExpress.XtraEditors.LabelControl labelControl1;
@@ -285,5 +261,7 @@
         private DevExpress.XtraBars.BarDockControl barDockControlBottom;
         private DevExpress.XtraBars.BarDockControl barDockControlLeft;
         private DevExpress.XtraBars.BarDockControl barDockControlRight;
+        private System.Windows.Forms.DataGridView dtgvSanPham;
+        private DevExpress.XtraEditors.SimpleButton btnDelete;
     }
 }

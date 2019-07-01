@@ -25,6 +25,7 @@ namespace QuanLiBanVang.DTO
             this.maDVT = row["MaDonViTinh"].ToString();
         }
 
+
         private string maLoaiSP;
 
         public string MaLoaiSP

@@ -31,17 +31,19 @@
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(DanhSachPhieuBanHang_Form));
             this.groupControl1 = new DevExpress.XtraEditors.GroupControl();
+            this.dtgvPhieuBanHang = new System.Windows.Forms.DataGridView();
             this.simpleButtonRefresh = new DevExpress.XtraEditors.SimpleButton();
             this.simpleButtonChiTiet = new DevExpress.XtraEditors.SimpleButton();
+            this.simpleButtonThem = new DevExpress.XtraEditors.SimpleButton();
             this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.chiTiếtToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.refreshToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.bindingSource1 = new System.Windows.Forms.BindingSource(this.components);
-            this.simpleButtonThem = new DevExpress.XtraEditors.SimpleButton();
             this.labelControl1 = new DevExpress.XtraEditors.LabelControl();
             this.simpleButtonThoat = new DevExpress.XtraEditors.SimpleButton();
             ((System.ComponentModel.ISupportInitialize)(this.groupControl1)).BeginInit();
             this.groupControl1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dtgvPhieuBanHang)).BeginInit();
             this.contextMenuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.bindingSource1)).BeginInit();
             this.SuspendLayout();
@@ -51,6 +53,7 @@
             this.groupControl1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
+            this.groupControl1.Controls.Add(this.dtgvPhieuBanHang);
             this.groupControl1.Controls.Add(this.simpleButtonRefresh);
             this.groupControl1.Controls.Add(this.simpleButtonChiTiet);
             this.groupControl1.Controls.Add(this.simpleButtonThem);
@@ -59,6 +62,14 @@
             this.groupControl1.Size = new System.Drawing.Size(640, 328);
             this.groupControl1.TabIndex = 0;
             this.groupControl1.Text = "Danh sách";
+            // 
+            // dtgvPhieuBanHang
+            // 
+            this.dtgvPhieuBanHang.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dtgvPhieuBanHang.Location = new System.Drawing.Point(3, 21);
+            this.dtgvPhieuBanHang.Name = "dtgvPhieuBanHang";
+            this.dtgvPhieuBanHang.Size = new System.Drawing.Size(535, 306);
+            this.dtgvPhieuBanHang.TabIndex = 6;
             // 
             // simpleButtonRefresh
             // 
@@ -82,6 +93,17 @@
             this.simpleButtonChiTiet.Text = "Chi tiết";
             this.simpleButtonChiTiet.Click += new System.EventHandler(this.simpleButtonChiTiet_Click);
             // 
+            // simpleButtonThem
+            // 
+            this.simpleButtonThem.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.simpleButtonThem.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("simpleButtonThem.ImageOptions.Image")));
+            this.simpleButtonThem.Location = new System.Drawing.Point(548, 23);
+            this.simpleButtonThem.Name = "simpleButtonThem";
+            this.simpleButtonThem.Size = new System.Drawing.Size(87, 27);
+            this.simpleButtonThem.TabIndex = 3;
+            this.simpleButtonThem.Text = "Thêm";
+            this.simpleButtonThem.Click += new System.EventHandler(this.simpleButtonThem_Click);
+            // 
             // contextMenuStrip1
             // 
             this.contextMenuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
@@ -103,17 +125,6 @@
             this.refreshToolStripMenuItem.Size = new System.Drawing.Size(113, 22);
             this.refreshToolStripMenuItem.Text = "Refresh";
             this.refreshToolStripMenuItem.Click += new System.EventHandler(this.refreshToolStripMenuItem_Click);
-            // 
-            // simpleButtonThem
-            // 
-            this.simpleButtonThem.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.simpleButtonThem.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("simpleButtonThem.ImageOptions.Image")));
-            this.simpleButtonThem.Location = new System.Drawing.Point(548, 23);
-            this.simpleButtonThem.Name = "simpleButtonThem";
-            this.simpleButtonThem.Size = new System.Drawing.Size(87, 27);
-            this.simpleButtonThem.TabIndex = 3;
-            this.simpleButtonThem.Text = "Thêm";
-            this.simpleButtonThem.Click += new System.EventHandler(this.simpleButton2_Click);
             // 
             // labelControl1
             // 
@@ -156,6 +167,7 @@
             this.Load += new System.EventHandler(this.DanhSachPhieuBanHang_Load);
             ((System.ComponentModel.ISupportInitialize)(this.groupControl1)).EndInit();
             this.groupControl1.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.dtgvPhieuBanHang)).EndInit();
             this.contextMenuStrip1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.bindingSource1)).EndInit();
             this.ResumeLayout(false);
@@ -174,5 +186,6 @@
         private System.Windows.Forms.ToolStripMenuItem refreshToolStripMenuItem;
         private DevExpress.XtraEditors.SimpleButton simpleButtonRefresh;
         private DevExpress.XtraEditors.SimpleButton simpleButtonChiTiet;
+        private System.Windows.Forms.DataGridView dtgvPhieuBanHang;
     }
 }

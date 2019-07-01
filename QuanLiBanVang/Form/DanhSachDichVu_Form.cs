@@ -1,10 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Data;
+using System.Drawing;
+using System.Text;
+using System.Linq;
+using System.Threading.Tasks;
 using System.Windows.Forms;
+using DevExpress.XtraEditors;
+using QuanLiBanVang.DAO;
+using QuanLiBanVang.Form;
 
-using QuanLiBanVang.ExtendClass;
-using QuanLiBanVang.Properties;
 
 namespace QuanLiBanVang
 {
@@ -15,7 +21,8 @@ namespace QuanLiBanVang
         public DanhSachDichVu()
         {
             InitializeComponent();
-            
+            GetDSDichVu();
+
         }
         private void CreateDataTable()
         {
@@ -29,12 +36,14 @@ namespace QuanLiBanVang
 
         private void simpleButtonAdd_Click(object sender, EventArgs e)
         {
-           
+            NhapDichVu_Form nhapDV = new NhapDichVu_Form();
+            nhapDV.ShowDialog();
         }
 
         private void simpleButtonEdit_Click(object sender, EventArgs e)
         {
-           
+            SuaDichVu_Form suaDV = new SuaDichVu_Form();
+            suaDV.ShowDialog();
         }
 
         private void OpenEditDialog()
@@ -56,15 +65,9 @@ namespace QuanLiBanVang
         {
 
         }
-        private void gridViewDSDV_DoubleClick(object sender, EventArgs e)
-        {
-            simpleButtonEdit_Click(sender,e);
-        }
+        
 
-        private void gridViewDSDV_PopupMenuShowing(object sender, DevExpress.XtraGrid.Views.Grid.PopupMenuShowingEventArgs e)
-        {
-
-        }
+        
         private void barButtonItemCapNhat_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
             
@@ -77,7 +80,14 @@ namespace QuanLiBanVang
 
         private void simpleButtonLamMoi_Click(object sender, EventArgs e)
         {
-            FillGridView();
+            GetDSDichVu();
         }
+
+        private void GetDSDichVu()
+        {
+            dtgvDichVu.DataSource = DichVuDAO.Instance.GetDsLoaiSanPham();
+        }
+
+        
     }
 }

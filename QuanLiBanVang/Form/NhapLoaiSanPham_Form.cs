@@ -20,15 +20,6 @@ namespace QuanLiBanVang.Report
             InitializeComponent();
             
         }
-        
-        private void Clear()
-        {
-            this.txtMaloai.Text = "";
-            this.txtName.Text = "";
-            this.txtPercent.Text = "";
-            this.txtDVT.Text = "";
-        }
-
 
         private void btnSave_Click(object sender, EventArgs e)
         {
@@ -52,7 +43,6 @@ namespace QuanLiBanVang.Report
             {
                 MessageBox.Show("Trùng mã loại sản phẩm, vui lòng kiểm tra lại !");
             }
-
 
          } 
 

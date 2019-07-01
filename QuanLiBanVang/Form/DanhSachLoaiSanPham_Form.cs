@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using DevExpress.XtraEditors;
 using QuanLiBanVang.DAO;
+using QuanLiBanVang.Form;
 
 namespace QuanLiBanVang.Report
 {
@@ -61,12 +62,14 @@ namespace QuanLiBanVang.Report
 
         private void btnDelete_Click(object sender, EventArgs e)
         {
-            
+            XoaLoaiSanPham xoaLoaiSP = new XoaLoaiSanPham();
+            xoaLoaiSP.ShowDialog();
         }
 
         private void btnUpdate_Click(object sender, EventArgs e)
-        { 
-
+        {
+            SuaLoaiSanPham_Form suaLoaiSP = new SuaLoaiSanPham_Form();
+            suaLoaiSP.ShowDialog();
         }
 
         private void btnRefresh_Click(object sender, EventArgs e)

@@ -9,6 +9,9 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using DevExpress.XtraEditors;
 using QuanLiBanVang.ExtendClass;
+using QuanLiBanVang.DTO;
+using QuanLiBanVang.DAO;
+
 namespace QuanLiBanVang.Report
 {
     public partial class NhapSanPham_Form : DevExpress.XtraEditors.XtraForm
@@ -17,16 +20,23 @@ namespace QuanLiBanVang.Report
         public NhapSanPham_Form()
         {
             InitializeComponent();
-            
+            GetMaLoaiSP();           
+        }
+
+        void GetMaLoaiSP()
+        {
+            List<LoaiSanPhamDTO> listMaLoaiSP = LoaiSanPhamDAO.Instance.GetDsLoaiSanPham();
+            cbMaLoaiSP.DataSource = listMaLoaiSP;
+            cbMaLoaiSP.DisplayMember = "maLoaiSP";
         }
 
         public bool CheckControlValidation()
         {
-            if (this.txtName.Text == "")
+            if (this.txtTenSP.Text == "")
                 return false;
-            if (this.txtWeight.Text == "")
+            if (this.txtSL.Text == "")
                 return false;
-            if (this.cboProductType.SelectedIndex == -1)
+            if (this.cbMaLoaiSP.SelectedIndex == -1)
                 return false;
             return true;
         }
@@ -36,7 +46,22 @@ namespace QuanLiBanVang.Report
         }
         private void btnSave_Click(object sender, EventArgs e)
         {
-            
+            string maSanPham = txtMaSP.Text;
+            string tenSanPham = txtTenSP.Text;
+            string maLoaiSanPham = cbMaLoaiSP.Text;
+            float donGiaMuaVao = float.Parse(txtDonGiaMuaVao.Text);
+            int soLuong = int.Parse(txtSL.Text);
+            float phanTramLoiNhuan = LoaiSanPhamDAO.Instance.GetPhanTramLoiNhuan(maLoaiSanPham);
+            float donGiaBanRa = donGiaMuaVao + (donGiaMuaVao * phanTramLoiNhuan);
+
+            if(SanPhamDAO.Instance.ThemSanPham(maSanPham,tenSanPham,maLoaiSanPham,donGiaMuaVao,soLuong,donGiaBanRa))
+            {
+                MessageBox.Show("Thêm sản phẩm thành công !");
+            }
+            else
+            {
+                MessageBox.Show("Có lỗi khi thêm mới loại sản phẩm !");
+            }
         }
 
         private void NhapSanPham_Form_Load(object sender, EventArgs e)
@@ -56,6 +81,11 @@ namespace QuanLiBanVang.Report
             groupControlInfo.Left = (ClientSize.Width - groupControlInfo.Width) / 2;
             btnCancel.Left = groupControlInfo.Right - btnSave.Width;
             btnSave.Left = btnCancel.Left - btnSave.Width - 10; 
+        }
+
+        private void cboProductType_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

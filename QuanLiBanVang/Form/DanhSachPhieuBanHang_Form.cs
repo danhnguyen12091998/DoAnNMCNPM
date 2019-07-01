@@ -11,6 +11,8 @@ using DevExpress.XtraEditors;
 using System.Collections.ObjectModel;
 using QuanLiBanVang.Model;
 using System.Data.Entity;
+using QuanLiBanVang.Form;
+using QuanLiBanVang.DAO;
 
 namespace QuanLiBanVang.Form
 {
@@ -36,10 +38,7 @@ namespace QuanLiBanVang.Form
             
         }
 
-        private void simpleButton2_Click(object sender, EventArgs e)
-        {
-            
-        }
+        
 
 
         private void refreshToolStripMenuItem_Click(object sender, EventArgs e)
@@ -71,6 +70,11 @@ namespace QuanLiBanVang.Form
         private void gridView1_DoubleClick(object sender, EventArgs e)
         {
             simpleButtonChiTiet_Click(sender,e);
+        }
+
+        private void simpleButtonThem_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

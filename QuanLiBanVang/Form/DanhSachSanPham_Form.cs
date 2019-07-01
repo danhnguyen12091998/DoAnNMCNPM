@@ -20,6 +20,8 @@ namespace QuanLiBanVang.Report
         public DanhSachSanPham_Form()
         {
             InitializeComponent();
+
+            GetDanhSachSanPham();
             
         }
         private void createTable()
@@ -48,7 +50,8 @@ namespace QuanLiBanVang.Report
 
         private void btnAdd_Click(object sender, EventArgs e)
         {
-            
+            NhapSanPham_Form nhapSanPham = new NhapSanPham_Form();
+            nhapSanPham.ShowDialog();
         }
         private void updateRowInDatatable()
         {
@@ -61,7 +64,8 @@ namespace QuanLiBanVang.Report
 
         private void btnUpdate_Click(object sender, EventArgs e)
         {
-            
+            SuaSanPham_Form suaSP = new SuaSanPham_Form();
+            suaSP.ShowDialog();
         }
 
         private void btnExit_Click(object sender, EventArgs e)
@@ -71,7 +75,7 @@ namespace QuanLiBanVang.Report
 
         private void btnRefresh_Click(object sender, EventArgs e)
         {
-            
+            GetDanhSachSanPham();
         }
 
         private void barButtonItemCapNhat_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
@@ -95,6 +99,21 @@ namespace QuanLiBanVang.Report
         }
 
         private void labelControl1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void simpleButton1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void GetDanhSachSanPham()
+        {
+            dtgvSanPham.DataSource = SanPhamDAO.Instance.GetDsSanPham();
+        }
+
+        private void dtgvSanPham_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
 
         }

@@ -131,8 +131,8 @@ namespace QuanLiBanVang
 
         private void barButtonItemThemLoaiDV_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
-            NhapDichVu nhapDichVu = new NhapDichVu();
-            OpenChildForm(nhapDichVu);
+            NhapDichVu_Form nhapDV = new NhapDichVu_Form();
+            OpenChildForm(nhapDV);
         }
 
         private void barButtonItem1_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
@@ -229,7 +229,8 @@ namespace QuanLiBanVang
 
         private void barButtonItemLapPBH_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
-            
+            NhapPhieuBanHang_Form nhapPBH = new NhapPhieuBanHang_Form();
+            OpenChildForm(nhapPBH);
         }
 
         private void barButtonItemDSPhieuThuTienNo_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
@@ -269,6 +270,12 @@ namespace QuanLiBanVang
         {
             DanhSachKH_Form DSKhachHang = new DanhSachKH_Form();
             OpenChildForm(DSKhachHang);
+        }
+
+        private void barButtonItem2_ItemClick_1(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+            DanhSachNhaCungCap_Form DSNCC = new DanhSachNhaCungCap_Form();
+            OpenChildForm(DSNCC);
         }
     }
 }

@@ -11,7 +11,7 @@ using QuanLiBanVang.Properties;
 
 namespace QuanLiBanVang
 {
-    public partial class DanhSachPDV : XtraForm
+    public partial class DanhSachPDV : DevExpress.XtraEditors.XtraForm
     {
         
         public DanhSachPDV()

@@ -8,6 +8,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using DevExpress.XtraEditors;
+using QuanLiBanVang.DAO;
 
 namespace QuanLiBanVang.Report
 {
@@ -19,11 +20,7 @@ namespace QuanLiBanVang.Report
             InitializeComponent();
             
         }
-        public SuaLoaiSanPham_Form(int id)
-        {
-            InitializeComponent();
-            
-        }
+
         private void SuaLoaiSanPham_Form_Load(object sender, EventArgs e)
         {
             
@@ -59,7 +56,28 @@ namespace QuanLiBanVang.Report
             }
             else
             {
-               
+                string maLoaiSP = txtID.Text;
+                string tenLoaiSP = txtName.Text;
+                float phanTram = float.Parse(txtPercent.Text);
+                string maDVT = txtmaDVT.Text;
+
+                if (LoaiSanPhamDAO.Instance.CheckMaLoaiSP(maLoaiSP) == true)
+                {
+
+                    if (LoaiSanPhamDAO.Instance.CapNhatLoaiSanPham(maLoaiSP, tenLoaiSP, phanTram, maDVT))
+                    {
+                        MessageBox.Show("Cập nhật loại sản phẩm thành công !");
+                    }
+                    else
+
+                    {
+                        MessageBox.Show("Có lỗi khi cập nhật loại sản phẩm !");
+                    }
+                }
+                else
+                {
+                    MessageBox.Show("Không tìm thấy loại sản phẩm cần cập nhật !");
+                }
             }
         }
 
@@ -67,6 +85,21 @@ namespace QuanLiBanVang.Report
         {
             this.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.Close();
+        }
+
+        private void labelControl5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void labelControl6_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textEdit1_EditValueChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

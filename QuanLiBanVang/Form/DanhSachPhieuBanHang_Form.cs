@@ -22,6 +22,7 @@ namespace QuanLiBanVang.Form
         public DanhSachPhieuBanHang_Form()
         {
             InitializeComponent();
+            GetDanhSachPBH();
         }
 
         private void DanhSachPhieuBanHang_Load(object sender, EventArgs e)
@@ -38,7 +39,10 @@ namespace QuanLiBanVang.Form
             
         }
 
-        
+        void GetDanhSachPBH()
+        {
+            dtgvPhieuBanHang.DataSource = PhieuBanHangDAO.Instance.GetDsLoaiSanPham();
+        }
 
 
         private void refreshToolStripMenuItem_Click(object sender, EventArgs e)
@@ -48,12 +52,13 @@ namespace QuanLiBanVang.Form
 
         private void simpleButtonChiTiet_Click(object sender, EventArgs e)
         {
-            
+            ChiTietPhieuBanHang_Form CTPBH = new ChiTietPhieuBanHang_Form();
+            CTPBH.ShowDialog();
         }
 
         private void simpleButtonRefresh_Click(object sender, EventArgs e)
         {
-            this.refresh();
+            GetDanhSachPBH();
         }
 
 
@@ -74,7 +79,8 @@ namespace QuanLiBanVang.Form
 
         private void simpleButtonThem_Click(object sender, EventArgs e)
         {
-
+            NhapPhieuBanHang_Form NhapPBH = new NhapPhieuBanHang_Form();
+            NhapPBH.ShowDialog();
         }
     }
 }

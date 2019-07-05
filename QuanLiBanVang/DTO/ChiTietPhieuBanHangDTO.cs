@@ -19,8 +19,6 @@ namespace QuanLiBanVang.DTO
             this.thanhTien = ThanhTien;
         }
 
-
-
         public ChiTietPhieuBanHangDTO(DataRow row)
         {
             this.maCT_PBH = row["MaCT_PBH"].ToString();

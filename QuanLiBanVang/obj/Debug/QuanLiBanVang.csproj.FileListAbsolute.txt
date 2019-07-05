@@ -645,3 +645,4 @@ C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\
 C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.SuaDichVu_Form.resources
 C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.NhapDichVu_Form.resources
 C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.NhapPhieuBanHang_Form.resources
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.ChiTietPhieuBanHang_Form.resources

@@ -79,16 +79,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DAO\ChiTietPhieuBanHangDAO.cs" />
     <Compile Include="DAO\DichVuDAO.cs" />
     <Compile Include="DAO\NhaCungCapDAO.cs" />
     <Compile Include="DAO\NhanVienDAO.cs" />
     <Compile Include="DAO\DataProvider.cs" />
     <Compile Include="DAO\LoaiSanPhamDAO.cs" />
+    <Compile Include="DAO\PhieuBanHangDAO.cs" />
     <Compile Include="DAO\SanPhamDAO.cs" />
     <Compile Include="DTO\ChiTietPhieuBanHangDTO.cs" />
     <Compile Include="DTO\DichVuDTO.cs" />
     <Compile Include="DTO\LoaiSanPhamDTO.cs" />
     <Compile Include="DTO\NhaCungCapDTO.cs" />
+    <Compile Include="DTO\NhanVienDTO.cs" />
     <Compile Include="DTO\PhieuBanHangDTO.cs" />
     <Compile Include="DTO\SanPhamDTO.cs" />
     <Compile Include="Form\DanhSachKH_Form.cs">
@@ -160,6 +163,12 @@
     </Compile>
     <Compile Include="Form\MainForm.Designer.cs">
       <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\ChiTietPhieuBanHang_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\ChiTietPhieuBanHang_Form.Designer.cs">
+      <DependentUpon>ChiTietPhieuBanHang_Form.cs</DependentUpon>
     </Compile>
     <Compile Include="Form\NhapPhieuBanHang_Form.cs">
       <SubType>Form</SubType>
@@ -351,6 +360,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Form\MainForm.resx">
       <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\ChiTietPhieuBanHang_Form.resx">
+      <DependentUpon>ChiTietPhieuBanHang_Form.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form\NhapPhieuBanHang_Form.resx">
       <DependentUpon>NhapPhieuBanHang_Form.cs</DependentUpon>

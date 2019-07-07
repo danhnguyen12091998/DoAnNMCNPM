@@ -88,11 +88,13 @@
     <Compile Include="DAO\PhieuBanHangDAO.cs" />
     <Compile Include="DAO\SanPhamDAO.cs" />
     <Compile Include="DTO\ChiTietPhieuBanHangDTO.cs" />
+    <Compile Include="DTO\ChiTietPhieuMuaHangDTO.cs" />
     <Compile Include="DTO\DichVuDTO.cs" />
     <Compile Include="DTO\LoaiSanPhamDTO.cs" />
     <Compile Include="DTO\NhaCungCapDTO.cs" />
     <Compile Include="DTO\NhanVienDTO.cs" />
     <Compile Include="DTO\PhieuBanHangDTO.cs" />
+    <Compile Include="DTO\PhieuMuaHangDTO.cs" />
     <Compile Include="DTO\SanPhamDTO.cs" />
     <Compile Include="Form\DanhSachKH_Form.cs">
       <SubType>Form</SubType>

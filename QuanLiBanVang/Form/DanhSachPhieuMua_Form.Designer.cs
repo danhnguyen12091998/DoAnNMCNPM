@@ -33,8 +33,6 @@
             this.groupControlListBuyBill = new DevExpress.XtraEditors.GroupControl();
             this.btnRefresh = new DevExpress.XtraEditors.SimpleButton();
             this.btnUpdate = new DevExpress.XtraEditors.SimpleButton();
-            this.dgvListBuyBill = new DevExpress.XtraGrid.GridControl();
-            this.dgvBuyBill = new DevExpress.XtraGrid.Views.Grid.GridView();
             this.btnAdd = new DevExpress.XtraEditors.SimpleButton();
             this.labelControl1 = new DevExpress.XtraEditors.LabelControl();
             this.btnExit = new DevExpress.XtraEditors.SimpleButton();
@@ -45,12 +43,12 @@
             this.barDockControlBottom = new DevExpress.XtraBars.BarDockControl();
             this.barDockControlLeft = new DevExpress.XtraBars.BarDockControl();
             this.barDockControlRight = new DevExpress.XtraBars.BarDockControl();
+            this.dtgvPhieuMuaHang = new System.Windows.Forms.DataGridView();
             ((System.ComponentModel.ISupportInitialize)(this.groupControlListBuyBill)).BeginInit();
             this.groupControlListBuyBill.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dgvListBuyBill)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dgvBuyBill)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.popupMenu1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.barManager1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dtgvPhieuMuaHang)).BeginInit();
             this.SuspendLayout();
             // 
             // groupControlListBuyBill
@@ -58,9 +56,9 @@
             this.groupControlListBuyBill.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
+            this.groupControlListBuyBill.Controls.Add(this.dtgvPhieuMuaHang);
             this.groupControlListBuyBill.Controls.Add(this.btnRefresh);
             this.groupControlListBuyBill.Controls.Add(this.btnUpdate);
-            this.groupControlListBuyBill.Controls.Add(this.dgvListBuyBill);
             this.groupControlListBuyBill.Controls.Add(this.btnAdd);
             this.groupControlListBuyBill.Location = new System.Drawing.Point(12, 42);
             this.groupControlListBuyBill.Name = "groupControlListBuyBill";
@@ -71,7 +69,7 @@
             // btnRefresh
             // 
             this.btnRefresh.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnRefresh.Image = ((System.Drawing.Image)(resources.GetObject("btnRefresh.Image")));
+            this.btnRefresh.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnRefresh.ImageOptions.Image")));
             this.btnRefresh.Location = new System.Drawing.Point(438, 212);
             this.btnRefresh.Name = "btnRefresh";
             this.btnRefresh.Size = new System.Drawing.Size(87, 27);
@@ -82,7 +80,7 @@
             // btnUpdate
             // 
             this.btnUpdate.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnUpdate.Image = ((System.Drawing.Image)(resources.GetObject("btnUpdate.Image")));
+            this.btnUpdate.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnUpdate.ImageOptions.Image")));
             this.btnUpdate.Location = new System.Drawing.Point(438, 56);
             this.btnUpdate.Name = "btnUpdate";
             this.btnUpdate.Size = new System.Drawing.Size(87, 27);
@@ -90,37 +88,10 @@
             this.btnUpdate.Text = "Cập nhật";
             this.btnUpdate.Click += new System.EventHandler(this.btnUpdate_Click);
             // 
-            // dgvListBuyBill
-            // 
-            this.dgvListBuyBill.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.dgvListBuyBill.Location = new System.Drawing.Point(5, 23);
-            this.dgvListBuyBill.MainView = this.dgvBuyBill;
-            this.dgvListBuyBill.Name = "dgvListBuyBill";
-            this.dgvListBuyBill.Size = new System.Drawing.Size(427, 216);
-            this.dgvListBuyBill.TabIndex = 0;
-            this.dgvListBuyBill.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
-            this.dgvBuyBill});
-            // 
-            // dgvBuyBill
-            // 
-            this.dgvBuyBill.GridControl = this.dgvListBuyBill;
-            this.dgvBuyBill.Name = "dgvBuyBill";
-            this.dgvBuyBill.OptionsBehavior.AllowAddRows = DevExpress.Utils.DefaultBoolean.False;
-            this.dgvBuyBill.OptionsBehavior.AllowDeleteRows = DevExpress.Utils.DefaultBoolean.False;
-            this.dgvBuyBill.OptionsBehavior.Editable = false;
-            this.dgvBuyBill.OptionsCustomization.AllowColumnMoving = false;
-            this.dgvBuyBill.OptionsCustomization.AllowColumnResizing = false;
-            this.dgvBuyBill.OptionsSelection.EnableAppearanceFocusedCell = false;
-            this.dgvBuyBill.OptionsSelection.MultiSelect = true;
-            this.dgvBuyBill.OptionsView.ShowGroupPanel = false;
-            this.dgvBuyBill.PopupMenuShowing += new DevExpress.XtraGrid.Views.Grid.PopupMenuShowingEventHandler(this.dgvBuyBill_PopupMenuShowing);
-            // 
             // btnAdd
             // 
             this.btnAdd.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnAdd.Image = ((System.Drawing.Image)(resources.GetObject("btnAdd.Image")));
+            this.btnAdd.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnAdd.ImageOptions.Image")));
             this.btnAdd.Location = new System.Drawing.Point(438, 23);
             this.btnAdd.Name = "btnAdd";
             this.btnAdd.Size = new System.Drawing.Size(87, 27);
@@ -134,6 +105,9 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.labelControl1.Appearance.Font = new System.Drawing.Font("Tahoma", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelControl1.Appearance.ForeColor = System.Drawing.Color.Blue;
+            this.labelControl1.Appearance.Options.UseFont = true;
+            this.labelControl1.Appearance.Options.UseForeColor = true;
+            this.labelControl1.Appearance.Options.UseTextOptions = true;
             this.labelControl1.Appearance.TextOptions.HAlignment = DevExpress.Utils.HorzAlignment.Center;
             this.labelControl1.AutoSizeMode = DevExpress.XtraEditors.LabelAutoSizeMode.None;
             this.labelControl1.Location = new System.Drawing.Point(12, 12);
@@ -145,7 +119,7 @@
             // btnExit
             // 
             this.btnExit.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnExit.Image = ((System.Drawing.Image)(resources.GetObject("btnExit.Image")));
+            this.btnExit.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnExit.ImageOptions.Image")));
             this.btnExit.Location = new System.Drawing.Point(455, 292);
             this.btnExit.Name = "btnExit";
             this.btnExit.Size = new System.Drawing.Size(87, 27);
@@ -183,6 +157,7 @@
             this.barDockControlTop.CausesValidation = false;
             this.barDockControlTop.Dock = System.Windows.Forms.DockStyle.Top;
             this.barDockControlTop.Location = new System.Drawing.Point(0, 0);
+            this.barDockControlTop.Manager = this.barManager1;
             this.barDockControlTop.Size = new System.Drawing.Size(549, 0);
             // 
             // barDockControlBottom
@@ -190,6 +165,7 @@
             this.barDockControlBottom.CausesValidation = false;
             this.barDockControlBottom.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.barDockControlBottom.Location = new System.Drawing.Point(0, 326);
+            this.barDockControlBottom.Manager = this.barManager1;
             this.barDockControlBottom.Size = new System.Drawing.Size(549, 0);
             // 
             // barDockControlLeft
@@ -197,6 +173,7 @@
             this.barDockControlLeft.CausesValidation = false;
             this.barDockControlLeft.Dock = System.Windows.Forms.DockStyle.Left;
             this.barDockControlLeft.Location = new System.Drawing.Point(0, 0);
+            this.barDockControlLeft.Manager = this.barManager1;
             this.barDockControlLeft.Size = new System.Drawing.Size(0, 326);
             // 
             // barDockControlRight
@@ -204,7 +181,16 @@
             this.barDockControlRight.CausesValidation = false;
             this.barDockControlRight.Dock = System.Windows.Forms.DockStyle.Right;
             this.barDockControlRight.Location = new System.Drawing.Point(549, 0);
+            this.barDockControlRight.Manager = this.barManager1;
             this.barDockControlRight.Size = new System.Drawing.Size(0, 326);
+            // 
+            // dtgvPhieuMuaHang
+            // 
+            this.dtgvPhieuMuaHang.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dtgvPhieuMuaHang.Location = new System.Drawing.Point(12, 26);
+            this.dtgvPhieuMuaHang.Name = "dtgvPhieuMuaHang";
+            this.dtgvPhieuMuaHang.Size = new System.Drawing.Size(420, 212);
+            this.dtgvPhieuMuaHang.TabIndex = 4;
             // 
             // DanhSachPhieuMua_Form
             // 
@@ -223,10 +209,9 @@
             this.Load += new System.EventHandler(this.DanhSachPhieuMua_Form_Load);
             ((System.ComponentModel.ISupportInitialize)(this.groupControlListBuyBill)).EndInit();
             this.groupControlListBuyBill.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.dgvListBuyBill)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dgvBuyBill)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.popupMenu1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.barManager1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dtgvPhieuMuaHang)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -236,8 +221,6 @@
 
         private DevExpress.XtraEditors.GroupControl groupControlListBuyBill;
         private DevExpress.XtraEditors.LabelControl labelControl1;
-        private DevExpress.XtraGrid.GridControl dgvListBuyBill;
-        private DevExpress.XtraGrid.Views.Grid.GridView dgvBuyBill;
         private DevExpress.XtraEditors.SimpleButton btnAdd;
         private DevExpress.XtraEditors.SimpleButton btnExit;
         private DevExpress.XtraEditors.SimpleButton btnUpdate;
@@ -249,5 +232,6 @@
         private DevExpress.XtraBars.BarDockControl barDockControlBottom;
         private DevExpress.XtraBars.BarDockControl barDockControlLeft;
         private DevExpress.XtraBars.BarDockControl barDockControlRight;
+        private System.Windows.Forms.DataGridView dtgvPhieuMuaHang;
     }
 }

@@ -130,6 +130,7 @@ namespace QuanLiBanVang.Form
         {
             string SoPBH = txtSoPhieuBanHang.Text;
             GetDanhSachChiTietPhieuBanHang(SoPBH);
+            txtTongTien.Text = ChiTietPhieuBanHangDAO.Instance.GetTongTien(SoPBH);
         }
 
         private void labelControl3_Click(object sender, EventArgs e)

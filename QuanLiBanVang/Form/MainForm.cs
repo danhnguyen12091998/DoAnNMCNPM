@@ -201,7 +201,8 @@ namespace QuanLiBanVang
 
         private void barButtonItem27_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
-            
+            NhapNhanVien nhapNV = new NhapNhanVien();
+            nhapNV.ShowDialog();
         }
 
         private void barButtonItem26_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)

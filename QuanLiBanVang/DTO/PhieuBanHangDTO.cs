@@ -9,7 +9,7 @@ namespace QuanLiBanVang.DTO
 {
     public class PhieuBanHangDTO
     {
-        public PhieuBanHangDTO(string SoPBH, DateTime NgayLap, string KhachHang,float TongTien)
+        public PhieuBanHangDTO(string SoPBH, DateTime NgayLap, string KhachHang,int TongTien)
         {
             this.soPhieuBanHang = SoPBH;
             this.ngayLap = NgayLap;
@@ -22,7 +22,7 @@ namespace QuanLiBanVang.DTO
             this.soPhieuBanHang = row["SoPhieuBanHang"].ToString();
             this.ngayLap = DateTime.Parse(row["NgayLap"].ToString());
             this.khachHang = row["KhachHang"].ToString();
-            this.tongTien = float.Parse(row["TongTien"].ToString());
+            this.tongTien = int.Parse(row["TongTien"].ToString());
         }
 
         private string soPhieuBanHang;
@@ -48,9 +48,9 @@ namespace QuanLiBanVang.DTO
             set { khachHang = value; }
         }
 
-        private float tongTien;
+        private int tongTien;
 
-        public float TongTien
+        public int TongTien
         {
             get { return tongTien; }
             set { tongTien = value; }

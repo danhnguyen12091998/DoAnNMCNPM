@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using DevExpress.XtraEditors;
 using QuanLiBanVang.DAO;
+using QuanLiBanVang.Form;
 
 namespace QuanLiBanVang.Report
 {
@@ -71,6 +72,12 @@ namespace QuanLiBanVang.Report
         private void labelControl1_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void btnConnectDuLieu_Click(object sender, EventArgs e)
+        {
+            NhapTenMayTinh_Form nhaptmt = new NhapTenMayTinh_Form();
+            nhaptmt.ShowDialog();
         }
     }
 }

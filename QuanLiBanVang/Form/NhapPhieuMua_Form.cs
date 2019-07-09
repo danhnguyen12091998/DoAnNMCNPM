@@ -16,12 +16,14 @@ namespace QuanLiBanVang.Report
 {
     public partial class NhapPhieuMua_Form : DevExpress.XtraEditors.XtraForm
     {
-
+        int ID;
 
         public NhapPhieuMua_Form()
         {
             InitializeComponent();
             GetTenNCC();
+            ID = ChiTietPhieuMuaHangDAO.Instance.GetID();
+            txtCTPMH.Text = "CTPMH" + ID.ToString();
             GetTenLoaiSP();           
         }
         private void cboLoaiSanPham_SelectedIndexChanged(object sender, EventArgs e)
@@ -122,6 +124,10 @@ namespace QuanLiBanVang.Report
                     if (ChiTietPhieuMuaHangDAO.Instance.ThemChiTietPhieuMuaHang(MaCTPMH, SoPMH, MaSP, SL, DonGiaMuaVao, ThanhTien))
                     {
                         MessageBox.Show("Nhập chi tiết phiếu mua hàng thành công !");
+                        ID++;
+                        txtCTPMH.Text = "CTPMH" + ID.ToString();
+
+
                     }
                     else
                     {
@@ -186,6 +192,7 @@ namespace QuanLiBanVang.Report
             if(PhieuMuaHangDAO.Instance.CapNhatPhieuMuaHang(SoPhieuMuaHang,NgayLap,MaNCC,TongTien))
             {
                 MessageBox.Show("Thêm phiếu mua hàng thành công !");
+                ChiTietPhieuMuaHangDAO.Instance.SetID(ID);
             }
             else
             {

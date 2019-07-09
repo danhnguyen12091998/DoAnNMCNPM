@@ -9,7 +9,7 @@ namespace QuanLiBanVang.DTO
 {
     public class SanPhamDTO
     {
-        public SanPhamDTO(string maSP, string tenSP, string maLoaiSP, float donGiaMuaVao, int soLuongTon, float donGiaBanRa)
+        public SanPhamDTO(string maSP, string tenSP, string maLoaiSP, int donGiaMuaVao, int soLuongTon, int donGiaBanRa)
         {
             this.maSanPham = maSP;
             this.tenSanPham = tenSP;
@@ -24,9 +24,9 @@ namespace QuanLiBanVang.DTO
             this.maSanPham = row["MaSanPham"].ToString();
             this.tenSanPham = row["TenSanPham"].ToString();
             this.maLoaiSanPham = row["MaLoaiSanPham"].ToString(); 
-            this.donGiaMuaVao = float.Parse(row["donGiaMuaVao"].ToString());
+            this.donGiaMuaVao = int.Parse(row["donGiaMuaVao"].ToString());
             this.soLuongTon = int.Parse(row["soLuongTon"].ToString());
-            this.donGiaBanRa = float.Parse(row["donGiaBanRa"].ToString());
+            this.donGiaBanRa = int.Parse(row["donGiaBanRa"].ToString());
         }
 
         private string maSanPham;
@@ -52,9 +52,9 @@ namespace QuanLiBanVang.DTO
             set { maLoaiSanPham = value; }
         }
 
-        private float donGiaMuaVao;
+        private int donGiaMuaVao;
 
-        public float DonGiaMuaVao
+        public int DonGiaMuaVao
         {
             get { return donGiaMuaVao; }
             set { donGiaMuaVao = value; }
@@ -68,9 +68,9 @@ namespace QuanLiBanVang.DTO
             set { soLuongTon = value; }
         }
 
-        private float donGiaBanRa;
+        private int donGiaBanRa;
 
-        public float DonGiaBanRa
+        public int DonGiaBanRa
         {
             get { return donGiaBanRa; }
             set { donGiaBanRa = value; }

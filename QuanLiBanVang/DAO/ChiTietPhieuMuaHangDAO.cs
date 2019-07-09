@@ -12,6 +12,18 @@ namespace QuanLiBanVang.DAO
     {
         private static ChiTietPhieuMuaHangDAO instance;
 
+        int id = 1;
+
+        public void SetID(int i)
+        {
+            id = i;
+        }
+
+        public int GetID()
+        {
+            return id;
+        }
+
         public static ChiTietPhieuMuaHangDAO Instance
         {
             get { if (instance == null) instance = new ChiTietPhieuMuaHangDAO(); return ChiTietPhieuMuaHangDAO.instance; }

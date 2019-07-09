@@ -42,6 +42,7 @@ namespace QuanLiBanVang.Report
             this.labelControl1 = new DevExpress.XtraEditors.LabelControl();
             this.btnLogin = new DevExpress.XtraEditors.SimpleButton();
             this.btnExit = new DevExpress.XtraEditors.SimpleButton();
+            this.btnConnectDuLieu = new DevExpress.XtraEditors.SimpleButton();
             ((System.ComponentModel.ISupportInitialize)(this.groupControlInfo)).BeginInit();
             this.groupControlInfo.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.txtPassword.Properties)).BeginInit();
@@ -83,6 +84,7 @@ namespace QuanLiBanVang.Report
             // 
             // txtPassword
             // 
+            this.txtPassword.EditValue = "1";
             this.txtPassword.Location = new System.Drawing.Point(94, 57);
             this.txtPassword.Name = "txtPassword";
             this.txtPassword.Properties.Mask.EditMask = "([a-z]|[A-Z]|[0-9]){1,20}";
@@ -94,6 +96,7 @@ namespace QuanLiBanVang.Report
             // 
             // txtUserID
             // 
+            this.txtUserID.EditValue = "danh";
             this.txtUserID.ImeMode = System.Windows.Forms.ImeMode.On;
             this.txtUserID.Location = new System.Drawing.Point(94, 31);
             this.txtUserID.Name = "txtUserID";
@@ -156,7 +159,7 @@ namespace QuanLiBanVang.Report
             this.btnLogin.Appearance.Options.UseFont = true;
             this.btnLogin.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnLogin.ImageOptions.Image")));
             this.btnLogin.ImageOptions.Location = DevExpress.XtraEditors.ImageLocation.MiddleLeft;
-            this.btnLogin.Location = new System.Drawing.Point(12, 156);
+            this.btnLogin.Location = new System.Drawing.Point(149, 156);
             this.btnLogin.Name = "btnLogin";
             this.btnLogin.Size = new System.Drawing.Size(97, 27);
             this.btnLogin.TabIndex = 3;
@@ -176,11 +179,25 @@ namespace QuanLiBanVang.Report
             this.btnExit.Text = "Thoát";
             this.btnExit.Click += new System.EventHandler(this.btnExit_Click);
             // 
+            // btnConnectDuLieu
+            // 
+            this.btnConnectDuLieu.Appearance.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnConnectDuLieu.Appearance.Options.UseFont = true;
+            this.btnConnectDuLieu.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnConnectDuLieu.ImageOptions.Image")));
+            this.btnConnectDuLieu.ImageOptions.Location = DevExpress.XtraEditors.ImageLocation.MiddleLeft;
+            this.btnConnectDuLieu.Location = new System.Drawing.Point(12, 156);
+            this.btnConnectDuLieu.Name = "btnConnectDuLieu";
+            this.btnConnectDuLieu.Size = new System.Drawing.Size(113, 27);
+            this.btnConnectDuLieu.TabIndex = 5;
+            this.btnConnectDuLieu.Text = "Kết nối CSDL";
+            this.btnConnectDuLieu.Click += new System.EventHandler(this.btnConnectDuLieu_Click);
+            // 
             // Login_Form
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(354, 192);
+            this.Controls.Add(this.btnConnectDuLieu);
             this.Controls.Add(this.btnExit);
             this.Controls.Add(this.btnLogin);
             this.Controls.Add(this.labelControl1);
@@ -223,5 +240,6 @@ namespace QuanLiBanVang.Report
         private DevExpress.XtraEditors.LabelControl labelControl2;
         private DevExpress.XtraEditors.PictureEdit pbIcon;
         private DevExpress.XtraEditors.LabelControl lbState;
+        private DevExpress.XtraEditors.SimpleButton btnConnectDuLieu;
     }
 }

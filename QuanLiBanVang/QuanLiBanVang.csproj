@@ -188,6 +188,12 @@
     <Compile Include="Form\ChiTietPhieuMuaHang_Form.Designer.cs">
       <DependentUpon>ChiTietPhieuMuaHang_Form.cs</DependentUpon>
     </Compile>
+    <Compile Include="Form\NhapTenMayTinh_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\NhapTenMayTinh_Form.designer.cs">
+      <DependentUpon>NhapTenMayTinh_Form.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form\NhapDonViTinh_Form.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -375,6 +381,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Form\ChiTietPhieuMuaHang_Form.resx">
       <DependentUpon>ChiTietPhieuMuaHang_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\NhapTenMayTinh_Form.resx">
+      <DependentUpon>NhapTenMayTinh_Form.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form\NhapDonViTinh_Form.resx">
       <DependentUpon>NhapDonViTinh_Form.cs</DependentUpon>

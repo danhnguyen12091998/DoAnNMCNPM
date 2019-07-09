@@ -114,11 +114,12 @@
             // 
             // txtDonGiaMuaVao
             // 
+            this.txtDonGiaMuaVao.EditValue = "";
             this.txtDonGiaMuaVao.Location = new System.Drawing.Point(104, 133);
             this.txtDonGiaMuaVao.Name = "txtDonGiaMuaVao";
             this.txtDonGiaMuaVao.Properties.Mask.EditMask = "[0-9]+(\\R.\\d{0,2})?";
             this.txtDonGiaMuaVao.Properties.Mask.MaskType = DevExpress.XtraEditors.Mask.MaskType.RegEx;
-            this.txtDonGiaMuaVao.Properties.MaxLength = 5;
+            this.txtDonGiaMuaVao.Properties.MaxLength = 10;
             this.txtDonGiaMuaVao.Size = new System.Drawing.Size(141, 20);
             this.txtDonGiaMuaVao.TabIndex = 5;
             // 

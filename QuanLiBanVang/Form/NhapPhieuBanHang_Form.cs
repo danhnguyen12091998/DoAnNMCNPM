@@ -14,9 +14,12 @@ namespace QuanLiBanVang.Form
 {
     public partial class NhapPhieuBanHang_Form : DevExpress.XtraEditors.XtraForm
     {
+        int ID;
         public NhapPhieuBanHang_Form()
         {
             InitializeComponent();
+            ID = ChiTietPhieuBanHangDAO.Instance.GetID();
+            txtMaCTPBH.Text = "CTPBH" + ID.ToString();
             GetTenLoaiSP();
         }
         
@@ -30,6 +33,7 @@ namespace QuanLiBanVang.Form
             else
             {
                 string MaCT_PBH = txtMaCTPBH.Text;
+
                 string SoPhieuBanHang = txtSoPhieuBanHang.Text;
                 string MaSanPham = GetMaSanPham();
                 int SoLuong = int.Parse(txtSL.Text);
@@ -42,6 +46,8 @@ namespace QuanLiBanVang.Form
                     {
                         MessageBox.Show("Thêm một sản phẩm thành công !");
                         GetTongTienCuaPBH(SoPhieuBanHang);
+                        ID++;
+                        txtMaCTPBH.Text = "CTPBH" + ID.ToString();
                     }
                     else
                     {
@@ -241,8 +247,8 @@ namespace QuanLiBanVang.Form
             DateTime NgayLap = dateTimePickerNgayBan.Value;
             string KH = txtTenKH.Text;
             float TT = float.Parse(txtTongTien.Text);
-
             PhieuBanHangDAO.Instance.CapNhatPhieuBanHang(SoPBH, NgayLap, KH, TT);
+            ChiTietPhieuBanHangDAO.Instance.SetID(ID);
             this.Close();
         }
     }

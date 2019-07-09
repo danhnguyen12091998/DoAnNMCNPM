@@ -19,7 +19,14 @@ namespace QuanLiBanVang.DAO
         }
         private DataProvider() {}
 
-        private string connectionSTR = "Data Source=DESKTOP-RD6JLBR.\\SQLEXPRESS;Initial Catalog=QuanLyKinhDoanh;Integrated Security=True";
+        string connectionSTR = null;
+
+        public string SetConnectionString(string computername)
+        {
+            connectionSTR = "Data Source="+computername+".\\SQLEXPRESS;Initial Catalog=QuanLyKinhDoanh;Integrated Security=True";
+            return connectionSTR;      
+        }
+
 
         public DataTable ExecuteQuery(string query,object[] parameter = null)
         {

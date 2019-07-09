@@ -37,7 +37,6 @@
             this.labelControl5 = new DevExpress.XtraEditors.LabelControl();
             this.txtPercent = new DevExpress.XtraEditors.TextEdit();
             this.txtName = new DevExpress.XtraEditors.TextEdit();
-            this.labelControl4 = new DevExpress.XtraEditors.LabelControl();
             this.labelControl3 = new DevExpress.XtraEditors.LabelControl();
             this.labelControl2 = new DevExpress.XtraEditors.LabelControl();
             this.btnSave = new DevExpress.XtraEditors.SimpleButton();
@@ -75,7 +74,6 @@
             this.groupControlInfo.Controls.Add(this.labelControl5);
             this.groupControlInfo.Controls.Add(this.txtPercent);
             this.groupControlInfo.Controls.Add(this.txtName);
-            this.groupControlInfo.Controls.Add(this.labelControl4);
             this.groupControlInfo.Controls.Add(this.labelControl3);
             this.groupControlInfo.Controls.Add(this.labelControl2);
             this.groupControlInfo.Location = new System.Drawing.Point(12, 42);
@@ -137,18 +135,6 @@
             this.txtName.Properties.Mask.MaskType = DevExpress.XtraEditors.Mask.MaskType.RegEx;
             this.txtName.Size = new System.Drawing.Size(132, 20);
             this.txtName.TabIndex = 2;
-            // 
-            // labelControl4
-            // 
-            this.labelControl4.Appearance.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.labelControl4.Appearance.ForeColor = System.Drawing.Color.Red;
-            this.labelControl4.Appearance.Options.UseFont = true;
-            this.labelControl4.Appearance.Options.UseForeColor = true;
-            this.labelControl4.Location = new System.Drawing.Point(235, 88);
-            this.labelControl4.Name = "labelControl4";
-            this.labelControl4.Size = new System.Drawing.Size(14, 16);
-            this.labelControl4.TabIndex = 2;
-            this.labelControl4.Text = "%";
             // 
             // labelControl3
             // 
@@ -223,7 +209,6 @@
         private DevExpress.XtraEditors.GroupControl groupControlInfo;
         private DevExpress.XtraEditors.TextEdit txtPercent;
         private DevExpress.XtraEditors.TextEdit txtName;
-        private DevExpress.XtraEditors.LabelControl labelControl4;
         private DevExpress.XtraEditors.LabelControl labelControl3;
         private DevExpress.XtraEditors.LabelControl labelControl2;
         private DevExpress.XtraEditors.SimpleButton btnSave;

@@ -9,6 +9,7 @@ using System.Text;
 using System.Windows.Forms;
 using QuanLiBanVang.Form;
 using QuanLiBanVang.Model;
+using QuanLiBanVang.Report;
 
 namespace QuanLiBanVang
 {
@@ -281,6 +282,18 @@ namespace QuanLiBanVang
         {
             NhaCungCap_Form NCC = new NhaCungCap_Form();
             NCC.ShowDialog();
+        }
+
+        private void barButtonItem6_ItemClick_1(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+            DanhSachDonViTinh_Form dsdvt = new DanhSachDonViTinh_Form();
+            OpenChildForm(dsdvt);
+        }
+
+        private void barButtonItem7_ItemClick_1(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+            NhapDonViTinh_Form nhadvt = new NhapDonViTinh_Form();
+            nhadvt.ShowDialog();
         }
     }
 }

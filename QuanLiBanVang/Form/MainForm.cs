@@ -132,7 +132,7 @@ namespace QuanLiBanVang
         private void barButtonItemThemLoaiDV_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
             NhapDichVu_Form nhapDV = new NhapDichVu_Form();
-            OpenChildForm(nhapDV);
+            nhapDV.ShowDialog();
         }
 
         private void barButtonItem1_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
@@ -149,7 +149,7 @@ namespace QuanLiBanVang
         private void barButtonItem7_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
             Report.NhapLoaiSanPham_Form nhapLoaiSanPham_frm = new Report.NhapLoaiSanPham_Form();
-            OpenChildForm(nhapLoaiSanPham_frm);
+            nhapLoaiSanPham_frm.ShowDialog();
         }
 
         private void barButtonItem2_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
@@ -161,7 +161,7 @@ namespace QuanLiBanVang
         private void barButtonItem3_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
             Report.NhapSanPham_Form nhapSanPham_frm = new Report.NhapSanPham_Form();
-            OpenChildForm(nhapSanPham_frm);
+            nhapSanPham_frm.ShowDialog();
         }
 
         private void barButtonItem19_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
@@ -194,7 +194,8 @@ namespace QuanLiBanVang
 
         private void barButtonItem24_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
-            
+            DanhSachNhanVien_Form dsnv = new DanhSachNhanVien_Form();
+            OpenChildForm(dsnv);
         }
 
         private void barButtonItem27_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
@@ -206,7 +207,7 @@ namespace QuanLiBanVang
         {
             System.Threading.Thread thread = new System.Threading.Thread(new System.Threading.ThreadStart(ThreadProcess));
             thread.SetApartmentState(System.Threading.ApartmentState.STA);
-            thread.Start();
+            //thread.Start();
             this.Close();
         }
 
@@ -230,7 +231,7 @@ namespace QuanLiBanVang
         private void barButtonItemLapPBH_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
             NhapPhieuBanHang_Form nhapPBH = new NhapPhieuBanHang_Form();
-            OpenChildForm(nhapPBH);
+            nhapPBH.ShowDialog();
         }
 
         private void barButtonItemDSPhieuThuTienNo_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
@@ -262,20 +263,24 @@ namespace QuanLiBanVang
 
         private void btnThemKhachHang_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
-            NhapKhachHang_Form nhapKhachHang = new NhapKhachHang_Form();
-            OpenChildForm(nhapKhachHang);
+           
         }
 
         private void btnKhachHang_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
-            DanhSachKH_Form DSKhachHang = new DanhSachKH_Form();
-            OpenChildForm(DSKhachHang);
+           
         }
 
         private void barButtonItem2_ItemClick_1(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
             DanhSachNhaCungCap_Form DSNCC = new DanhSachNhaCungCap_Form();
             OpenChildForm(DSNCC);
+        }
+
+        private void barButtonItem5_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+            NhaCungCap_Form NCC = new NhaCungCap_Form();
+            NCC.ShowDialog();
         }
     }
 }

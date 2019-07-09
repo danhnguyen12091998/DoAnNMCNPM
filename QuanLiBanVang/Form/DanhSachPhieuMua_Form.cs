@@ -8,6 +8,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using DevExpress.XtraEditors;
+using QuanLiBanVang.DAO;
 
 namespace QuanLiBanVang.Report
 {
@@ -19,14 +20,9 @@ namespace QuanLiBanVang.Report
         public DanhSachPhieuMua_Form()
         {
             InitializeComponent();
-            
-        }
-        public DanhSachPhieuMua_Form(int staffid)
-        {
-            InitializeComponent();
-            
-            
-            
+            GetDsPhieuMuaHang();
+
+
         }
         private void createTable()
         {
@@ -53,7 +49,8 @@ namespace QuanLiBanVang.Report
         }
         private void btnAdd_Click(object sender, EventArgs e)
         {
-            
+            NhapPhieuMua_Form nhapphieumua = new NhapPhieuMua_Form();
+            nhapphieumua.ShowDialog();
         }
         private bool checkLegalDateChange(DateTime changetime)
         {
@@ -64,33 +61,11 @@ namespace QuanLiBanVang.Report
             }
             return true;
         }
-        //private void btnDelete_Click(object sender, EventArgs e)
-        //{
-        //    DataRow row = null;
-        //    int pos = -1;
-        //    foreach (int i in this.dgvBuyBill.GetSelectedRows())
-        //    {
-        //        pos = i;
-        //        row = this.dgvBuyBill.GetDataRow(i);
-        //        break;
-        //    }
-        //    if (row != null)
-        //    {
-        //        if (this.checkLegalDateChange(((DateTime)row[3]).Date) == true)
-        //        {
-        //            this.dgvBuyBill.DeleteRow(pos);
-        //        }
-        //        else
-        //        {
-        //            MessageBox.Show("Không thể xóa phiếu khác ngày hiện tại!");
-        //            return;
-        //        }
-        //    }
-        //}
-
+        
         private void btnUpdate_Click(object sender, EventArgs e)
         {
-           
+            ChiTietNhapPhieuMua_Form ctpmh = new ChiTietNhapPhieuMua_Form();
+            ctpmh.ShowDialog();
         }
 
         private void btnExit_Click(object sender, EventArgs e)
@@ -100,9 +75,14 @@ namespace QuanLiBanVang.Report
 
         private void btnRefresh_Click(object sender, EventArgs e)
         {
-            
+            GetDsPhieuMuaHang();
         }
 
+
+        void GetDsPhieuMuaHang()
+        {
+            dtgvPhieuMuaHang.DataSource = PhieuMuaHangDAO.Instance.GetDsPhieuMuaHang();
+        }
         private void barButtonItemCN_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
             btnUpdate_Click(sender,e);

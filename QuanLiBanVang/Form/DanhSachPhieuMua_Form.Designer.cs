@@ -31,6 +31,7 @@
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(DanhSachPhieuMua_Form));
             this.groupControlListBuyBill = new DevExpress.XtraEditors.GroupControl();
+            this.dtgvPhieuMuaHang = new System.Windows.Forms.DataGridView();
             this.btnRefresh = new DevExpress.XtraEditors.SimpleButton();
             this.btnUpdate = new DevExpress.XtraEditors.SimpleButton();
             this.btnAdd = new DevExpress.XtraEditors.SimpleButton();
@@ -43,12 +44,11 @@
             this.barDockControlBottom = new DevExpress.XtraBars.BarDockControl();
             this.barDockControlLeft = new DevExpress.XtraBars.BarDockControl();
             this.barDockControlRight = new DevExpress.XtraBars.BarDockControl();
-            this.dtgvPhieuMuaHang = new System.Windows.Forms.DataGridView();
             ((System.ComponentModel.ISupportInitialize)(this.groupControlListBuyBill)).BeginInit();
             this.groupControlListBuyBill.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dtgvPhieuMuaHang)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.popupMenu1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.barManager1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dtgvPhieuMuaHang)).BeginInit();
             this.SuspendLayout();
             // 
             // groupControlListBuyBill
@@ -65,6 +65,14 @@
             this.groupControlListBuyBill.Size = new System.Drawing.Size(530, 244);
             this.groupControlListBuyBill.TabIndex = 0;
             this.groupControlListBuyBill.Text = "Thông tin";
+            // 
+            // dtgvPhieuMuaHang
+            // 
+            this.dtgvPhieuMuaHang.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dtgvPhieuMuaHang.Location = new System.Drawing.Point(12, 26);
+            this.dtgvPhieuMuaHang.Name = "dtgvPhieuMuaHang";
+            this.dtgvPhieuMuaHang.Size = new System.Drawing.Size(420, 212);
+            this.dtgvPhieuMuaHang.TabIndex = 4;
             // 
             // btnRefresh
             // 
@@ -85,7 +93,7 @@
             this.btnUpdate.Name = "btnUpdate";
             this.btnUpdate.Size = new System.Drawing.Size(87, 27);
             this.btnUpdate.TabIndex = 2;
-            this.btnUpdate.Text = "Cập nhật";
+            this.btnUpdate.Text = "Chi tiết";
             this.btnUpdate.Click += new System.EventHandler(this.btnUpdate_Click);
             // 
             // btnAdd
@@ -184,14 +192,6 @@
             this.barDockControlRight.Manager = this.barManager1;
             this.barDockControlRight.Size = new System.Drawing.Size(0, 326);
             // 
-            // dtgvPhieuMuaHang
-            // 
-            this.dtgvPhieuMuaHang.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dtgvPhieuMuaHang.Location = new System.Drawing.Point(12, 26);
-            this.dtgvPhieuMuaHang.Name = "dtgvPhieuMuaHang";
-            this.dtgvPhieuMuaHang.Size = new System.Drawing.Size(420, 212);
-            this.dtgvPhieuMuaHang.TabIndex = 4;
-            // 
             // DanhSachPhieuMua_Form
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -209,9 +209,9 @@
             this.Load += new System.EventHandler(this.DanhSachPhieuMua_Form_Load);
             ((System.ComponentModel.ISupportInitialize)(this.groupControlListBuyBill)).EndInit();
             this.groupControlListBuyBill.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.dtgvPhieuMuaHang)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.popupMenu1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.barManager1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dtgvPhieuMuaHang)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 

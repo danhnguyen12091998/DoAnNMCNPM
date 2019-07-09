@@ -70,5 +70,37 @@ namespace QuanLiBanVang.DAO
             else return false;
 
         }
+
+        public string GetTenNCC(string MaNCC)
+        {
+            string query = string.Format("SELECT TenNhaCungCap FROM NHACUNGCAP WHERE MaNhaCungCap = N'{0}'", MaNCC);
+
+            string result = DataProvider.Instance.ExecuteScalar(query).ToString();
+
+            return result;
+
+        }
+
+        public string GetDiaChiNCC(string MaNCC)
+        {
+            string query = string.Format("SELECT DiaChi FROM NHACUNGCAP WHERE MaNhaCungCap = N'{0}'", MaNCC);
+
+            string result = DataProvider.Instance.ExecuteScalar(query).ToString();
+
+            return result;
+
+        }
+
+        public string GetSDTNCC(string MaNCC)
+        {
+            string query = string.Format("SELECT SoDienThoai FROM NHACUNGCAP WHERE MaNhaCungCap = N'{0}'", MaNCC);
+
+            string result = DataProvider.Instance.ExecuteScalar(query).ToString();
+
+            return result;
+
+        }
+
+
     }
 }

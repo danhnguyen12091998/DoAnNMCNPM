@@ -20,7 +20,7 @@ namespace QuanLiBanVang.DTO
 
         public PhieuMuaHangDTO(DataRow row)
         {
-            this.soPhieuBanHang = row["SoPhieuBanHang"].ToString();
+            this.soPhieuBanHang = row["SoPhieuMuaHang"].ToString();
             this.ngayLap = DateTime.Parse(row["NgayLap"].ToString());
             this.maNhaCungCap = row["MaNhaCungCap"].ToString();
             this.tongTien = float.Parse(row["TongTien"].ToString());

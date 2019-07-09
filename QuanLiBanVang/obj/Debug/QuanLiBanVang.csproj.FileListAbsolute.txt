@@ -437,13 +437,10 @@ C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\
 C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.SoTienTraTruoc_Form.resources
 C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.SuaKhachHang.resources
 C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.SuaLoaiSanPham_Form.resources
-C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.SuaNhanVien_Form.resources
 C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.SuaPhieuChi_Form.resources
 C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.SuaPhieuDichVu.resources
 C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.SuaPhieuMua_Form.resources
 C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.SuaSanPham_Form.resources
-C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.UpdateDetaiItem.resources
-C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.UpdateImportDetailltem.resources
 C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Properties.Resources.resources
 C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.BaoCaoCongNo.resources
 C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.BaoCaoTonKho.resources
@@ -636,8 +633,6 @@ C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\
 C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ja\DevExpress.Diagram.v17.1.Core.resources.dll
 C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\bin\Debug\ru\DevExpress.Diagram.v17.1.Core.resources.dll
 C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.csproj.CopyComplete
-C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.DanhSachKH_Form.resources
-C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.NhapKhachHang_Form.resources
 C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.XoaLoaiSanPham.resources
 C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.csprojAssemblyReference.cache
 C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.DanhSachNhaCungCap_Form.resources
@@ -646,3 +641,7 @@ C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\
 C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.NhapDichVu_Form.resources
 C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.NhapPhieuBanHang_Form.resources
 C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.ChiTietPhieuBanHang_Form.resources
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.DanhSachNhanVien_Form.resources
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.NhapNhanVien.resources
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Form.XoaNhanVien_Form.resources
+C:\Users\DanhNguyen\Documents\NMCNPM\DoAn\QuanLiBanVang\QuanLiBanVang\obj\Debug\QuanLiBanVang.Report.ChiTietNhapPhieuMua_Form.resources

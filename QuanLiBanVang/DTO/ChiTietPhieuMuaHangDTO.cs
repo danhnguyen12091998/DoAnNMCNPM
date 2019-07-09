@@ -21,8 +21,8 @@ namespace QuanLiBanVang.DTO
 
         public ChiTietPhieuMuaHangDTO(DataRow row)
         {
-            this.maCT_PBH = row["MaCT_PBH"].ToString();
-            this.soPhieuBanHang = row["SoPhieuBanHang"].ToString();
+            this.maCT_PBH = row["MaCT_PMH"].ToString();
+            this.soPhieuBanHang = row["SoPhieuMuaHang"].ToString();
             this.maSanPham = row["MaSanPham"].ToString();
             this.soLuong = int.Parse(row["SoLuong"].ToString());
             this.donGiaMuaVao = float.Parse(row["DonGiaMuaVao"].ToString());
